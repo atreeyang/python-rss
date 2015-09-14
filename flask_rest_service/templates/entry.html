@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ entry.title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='poole.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='syntax.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='lanyon.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='custom.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome.min.css') }}">
+  </head>
+  <body>
+    <h1>
+      {{ entry.title }}
+    </h1>
+    <div>
+      {{ entry.content|safe }}
+    </div>
+  </body>
+</html>
