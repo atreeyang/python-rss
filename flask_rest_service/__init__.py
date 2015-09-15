@@ -8,6 +8,9 @@ from flask import make_response
 from bson.json_util import dumps
 from pymongo import MongoClient
 import feedparser
+from time import mktime, strftime
+from pyquery import PyQuery as pq
+from datetime import datetime
 
 MONGO_URL = os.environ.get('MONGO_URL')
 if not MONGO_URL:

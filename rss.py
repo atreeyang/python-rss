@@ -17,8 +17,8 @@ urls = ['http://rss.dailyfx.com.hk/cmarkets_chg_sc.xml',
         'http://rss.dailyfx.com.hk/commentary_morning_chg_sc.xml']
 
 def readRss(urls):
-    print("refresh the news rss==")
-    posts = mongo.db.readings
+    print('refresh the news rss==')
+    #posts = mongo.db.readings
     for url in urls:
         items = feedparser.parse(url)
         for entry in items.entries:
@@ -38,18 +38,8 @@ def readRss(urls):
     posts.create_index([("date", -1)])
     posts.create_index([("link", 1)])
 
-schedule = sched.scheduler(time.time, time.sleep)
 
-def perform_command(cmd, inc):
-    schedule.enter(inc, 0, perform_command, (cmd, inc))
-    os.system(cmd)
-    readRss(urls)
 
-def timming_exe(cmd, inc = 60*10):
-    schedule.enter(inc, 0, perform_command, (cmd, inc))
-    schedule.run()
-
-timming_exe("echo %time%")
 #=====================================
 
 
