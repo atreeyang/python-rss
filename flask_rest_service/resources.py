@@ -14,7 +14,12 @@ class ReadingList(restful.Resource):
         super(ReadingList, self).__init__()
 
     def get(self):
-        res = {'status':0, 'entries':[x for x in mongo.db.readings.find()]}
+        offset = int(request.args.get('offset', 0))
+        limit = int(request.args.get('limit', 20))
+        print(offset)
+        print(limit)
+        res = {'status':0,
+               'entries':[x for x in mongo.db.readings.find().sort('date',-1).skip(offset).limit(limit)]}
         return  res
 
 

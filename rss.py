@@ -4,6 +4,8 @@ import pymongo
 from pymongo import MongoClient
 import datetime
 from pyquery import PyQuery as pq
+from time import mktime, strftime
+from datetime import datetime
 
 urls = ['http://rss.dailyfx.com.hk/cmarkets_chg_sc.xml',
         'http://rss.dailyfx.com.hk/commentary_morning_chg_sc.xml'];
@@ -20,11 +22,16 @@ def readRss(urls):
         for entry in items.entries:
             d = pq(url=entry.link)
             content = d(".content").html()
+            str_pubDate = strftime("%Y-%m-%d %H:%M:%S",entry.date_parsed)
+            print(str_pubDate)
             post={"title":entry.title, "link":entry.link,
-                  "published":entry.published, "summary":entry.summary,
+                  "published":str_pubDate,
+                  "date": datetime.fromtimestamp(mktime(entry.published_parsed)),
+                  "summary":entry.summary,
                   'content':content}
-            post_id = posts.insert_one(post).inserted_id
+            post_id = posts.insert(post)
 
+    posts.create_index([("date", -1)])
 
 def getHtml(url):
     page = urllib.urlopen(url)
