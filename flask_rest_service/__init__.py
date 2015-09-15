@@ -55,7 +55,7 @@ def readRss(urls):
                   "summary":entry.summary,
                   'content':content}
             post_id = posts.insert(post)
-            print post_id
+            print(post_id)
     posts.create_index([("date", -1)])
     posts.create_index([("link", 1)])
 
