@@ -10,4 +10,4 @@ itsdangerous==0.24
 pymongo==2.7.1
 pytz==2014.4
 six==1.7.2
-feedparser=5.2.1
+feedparser==5.2.1
