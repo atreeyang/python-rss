@@ -10,12 +10,15 @@ import time, os
 MONGO_URL = os.environ.get('MONGO_URL')
 if not MONGO_URL:
     MONGO_URL = "mongodb://localhost:27017/rss";
+    MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:21270/mongodb.0"
+    MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:10695/mongodb.0"
 
 app = Flask(__name__)
-
+print(MONGO_URL)
 app.config['MONGO_URI'] = MONGO_URL
 app.config['inited'] = 0
 mongo = PyMongo(app)
+
 
 def output_json(obj, code, headers=None):
     resp = make_response(dumps(obj), code)
