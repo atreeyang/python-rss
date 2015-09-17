@@ -64,7 +64,7 @@ urls = ['http://rss.dailyfx.com.hk/cmarkets_chg_sc.xml',
 client = MongoClient(app.config['MONGO_URI'])
 
 def readRss(urls):
-    posts = client.rss.readings
+    posts = client.get_default_database().readings
     print("refresh the news rss==")
     for url in urls:
         items = feedparser.parse(url)

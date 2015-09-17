@@ -10,8 +10,8 @@ import time, os
 MONGO_URL = os.environ.get('MONGO_URL')
 if not MONGO_URL:
     MONGO_URL = "mongodb://localhost:27017/rss";
-    MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:21270/mongodb.0"
-    MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:10695/mongodb.0"
+    #MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:21270/mongodb.0"
+    #MONGO_URL = "mongodb://mongodb-atreeyang.myalauda.cn:10695/mongodb.0"
 
 app = Flask(__name__)
 print(MONGO_URL)
