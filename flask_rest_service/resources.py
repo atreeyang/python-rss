@@ -91,7 +91,7 @@ def readRss(urls):
         items = feedparser.parse(url['url'])
         for entry in items.entries:
             if (posts.find_one({"link":entry.link})):
-                continue
+                break
 
             str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
             d = pq(url=entry.link)
