@@ -107,7 +107,7 @@ def readRss(urls):
                       'content':content}
                 post_id = posts.insert(post)
                 print(post_id)
-        except e:
+        except Exception as e:
             print(e)
 
     posts.create_index([("date", -1)])
