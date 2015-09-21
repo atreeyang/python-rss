@@ -89,23 +89,26 @@ def readRss(urls):
     print("refresh the news rss==")
     for url in urls:
         items = feedparser.parse(url['url'])
-        for entry in items.entries:
-            if (posts.find_one({"link":entry.link})):
-                break
+        try:
+            for entry in items.entries:
+                if (posts.find_one({"link":entry.link})):
+                    break
 
-            str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
-            d = pq(url=entry.link)
-            content = d(".content").html()
+                str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
+                d = pq(url=entry.link)
+                content = d(".content").html()
 
-            post={"title":entry.title, "link":entry.link,
-                  "published":str_pubDate,
-                  "date": datetime.fromtimestamp(mktime(entry.published_parsed)),
-                  #"summary":entry.summary,
-                  'cat':url['cat'],
-                  'subcat':url['subcat'],
-                  'content':content}
-            post_id = posts.insert(post)
-            print(post_id)
+                post={"title":entry.title, "link":entry.link,
+                      "published":str_pubDate,
+                      "date": datetime.fromtimestamp(mktime(entry.published_parsed)),
+                      #"summary":entry.summary,
+                      'cat':url['cat'],
+                      'subcat':url['subcat'],
+                      'content':content}
+                post_id = posts.insert(post)
+                print(post_id)
+        except e:
+            print(e)
 
     posts.create_index([("date", -1)])
     posts.create_index([("cat", -1)])
@@ -121,8 +124,10 @@ def init():
     inited = app.config['inited']
     print(inited)
     if (inited == 0):
-        refreshRss()
+        threading.Timer(5, refreshRss).start()
         app.config['inited'] = 1
+    else:
+        return "already inited"
     return "init...."
 
 @app.route('/clear')
