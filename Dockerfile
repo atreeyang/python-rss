@@ -1,3 +1,3 @@
-FROM python:3-onbuild
+FROM python:2.7-onbuild
 EXPOSE 5000
 CMD [ "python", "./runserver.py" ]
