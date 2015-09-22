@@ -84,7 +84,6 @@ urls = [{'cat':'DailyFx', 'subcat':'市场回音', 'url':'http://rss.DailyFx.com
         {'cat':'DailyFx', 'subcat':'股市原油', 'url':'http://rss.DailyFx.com.hk/stocks_oil_chg_sc.xml'},
         {'cat':'DailyFx', 'subcat':'机构报告', 'url':'http://rss.DailyFx.com.hk/institution_chg_sc.xml'}]
 
-
 client = MongoClient(app.config['MONGO_URI'])
 
 def readRss(urls):
@@ -152,7 +151,6 @@ def rssZeroHedge():
         post={"title":dataTitle, "link":dataUrl,
                       "published":str_pubDate,
                       "date": datetime.fromtimestamp(time.time()),
-                      #"summary":entry.summary,
                       'cat':'ZeroHedge',
                       'subcat':'',
                       'content':content}
