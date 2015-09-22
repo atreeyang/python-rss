@@ -28,8 +28,9 @@ class ReadingList(restful.Resource):
         limit = int(request.args.get('limit', 20))
         print(offset)
         print(limit)
+        cat = request.args.get('cat', 'dailyfx')
         res = {'status':0,
-               'entries':[x for x in mongo.db.readings.find({},{'title':1,'published':1,'subcat':1})
+               'entries':[x for x in mongo.db.readings.find({'cat':cat},{'title':1,'published':1,'subcat':1})
                           .sort('date',-1).skip(offset).limit(limit)]}
         return  res
 
@@ -62,26 +63,26 @@ def entry_detail(id):
     return render_template('entry.html', entry=entry)
 
 
-urls = [{'cat':'dailfx', 'subcat':'市场回音', 'url':'http://rss.dailyfx.com.hk/cmarkets_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'纽约盘后', 'url':'http://rss.dailyfx.com.hk/commentary_morning_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'欧洲盘前', 'url':'http://rss.dailyfx.com.hk/commentary_afternoon_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'纽约盘前', 'url':'http://rss.dailyfx.com.hk/commentary_evening_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'美元指数', 'url':'http://rss.dailyfx.com.hk/us_dollar_index_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'美元指数技术分析', 'url':'http://rss.dailyfx.com.hk/us_dollar_index_techs_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'外汇名家', 'url':'http://rss.dailyfx.com.hk/analysts_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'技术分析', 'url':'http://rss.dailyfx.com.hk/techs_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'论交叉盘', 'url':'http://rss.dailyfx.com.hk/crosses_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'直盘分析', 'url':'http://rss.dailyfx.com.hk/charts_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'今日看盘', 'url':'http://rss.dailyfx.com.hk/intraday_techs_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'牛熊榜', 'url':'http://rss.dailyfx.com.hk/winners_and_losers_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'专题探讨', 'url':'http://rss.dailyfx.com.hk/feaarticle_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'期货变化', 'url':'http://rss.dailyfx.com.hk/cotreport_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'投机情绪指数', 'url':'http://rss.dailyfx.com.hk/fxcmssi_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'每周基本分析展望', 'url':'http://rss.dailyfx.com.hk/outlook_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'每周交易策略', 'url':'http://rss.dailyfx.com.hk/weekly_strategy_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'金属产品', 'url':'http://rss.dailyfx.com.hk/metal_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'股市原油', 'url':'http://rss.dailyfx.com.hk/stocks_oil_chg_sc.xml'},
-        {'cat':'dailfx', 'subcat':'机构报告', 'url':'http://rss.dailyfx.com.hk/institution_chg_sc.xml'}]
+urls = [{'cat':'DailyFx', 'subcat':'市场回音', 'url':'http://rss.DailyFx.com.hk/cmarkets_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'纽约盘后', 'url':'http://rss.DailyFx.com.hk/commentary_morning_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'欧洲盘前', 'url':'http://rss.DailyFx.com.hk/commentary_afternoon_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'纽约盘前', 'url':'http://rss.DailyFx.com.hk/commentary_evening_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'美元指数', 'url':'http://rss.DailyFx.com.hk/us_dollar_index_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'美元指数技术分析', 'url':'http://rss.DailyFx.com.hk/us_dollar_index_techs_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'外汇名家', 'url':'http://rss.DailyFx.com.hk/analysts_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'技术分析', 'url':'http://rss.DailyFx.com.hk/techs_chg_sc.xml'},
+        #{'cat':'DailyFx', 'subcat':'论交叉盘', 'url':'http://rss.DailyFx.com.hk/crosses_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'直盘分析', 'url':'http://rss.DailyFx.com.hk/charts_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'今日看盘', 'url':'http://rss.DailyFx.com.hk/intraday_techs_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'牛熊榜', 'url':'http://rss.DailyFx.com.hk/winners_and_losers_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'专题探讨', 'url':'http://rss.DailyFx.com.hk/feaarticle_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'期货变化', 'url':'http://rss.DailyFx.com.hk/cotreport_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'投机情绪指数', 'url':'http://rss.DailyFx.com.hk/fxcmssi_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'每周基本分析展望', 'url':'http://rss.DailyFx.com.hk/outlook_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'每周交易策略', 'url':'http://rss.DailyFx.com.hk/weekly_strategy_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'金属产品', 'url':'http://rss.DailyFx.com.hk/metal_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'股市原油', 'url':'http://rss.DailyFx.com.hk/stocks_oil_chg_sc.xml'},
+        {'cat':'DailyFx', 'subcat':'机构报告', 'url':'http://rss.DailyFx.com.hk/institution_chg_sc.xml'}]
 
 
 client = MongoClient(app.config['MONGO_URI'])
@@ -152,7 +153,7 @@ def rssZeroHedge():
                       "published":str_pubDate,
                       "date": datetime.fromtimestamp(time.time()),
                       #"summary":entry.summary,
-                      'cat':'zeroHedge',
+                      'cat':'ZeroHedge',
                       'subcat':'',
                       'content':content}
         post_id = posts.insert(post)
