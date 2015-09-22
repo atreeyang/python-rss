@@ -1,5 +1,7 @@
 # coding: utf-8
-
+import urllib2
+import StringIO
+import gzip
 import json
 from flask import request, abort
 from flask.ext import restful
@@ -93,11 +95,10 @@ def readRss(urls):
             for entry in items.entries:
                 if (posts.find_one({"link":entry.link})):
                     break
-
                 str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
+                print(entry.link)
                 d = pq(url=entry.link)
                 content = d(".content").html()
-
                 post={"title":entry.title, "link":entry.link,
                       "published":str_pubDate,
                       "date": datetime.fromtimestamp(mktime(entry.published_parsed)),
@@ -115,9 +116,47 @@ def readRss(urls):
     posts.create_index([("link", 1)])
 
 def refreshRss():
+    rssZeroHedge()
     readRss(urls)
     print(time.ctime())
     threading.Timer(60*5, refreshRss).start()
+
+def readZipUrl(link):
+    req = urllib2.Request(link)
+    opener = urllib2.build_opener()
+    response = opener.open(req)
+    data = response.read()
+    data = StringIO.StringIO(data)
+    gzipper = gzip.GzipFile(fileobj=data)
+    html = gzipper.read()
+    return html
+
+def rssZeroHedge():
+    posts = client.get_default_database().readings
+    html = readZipUrl("http://www.zerohedge.com")
+    d = pq(html)
+    content = d(".js-l1")
+
+    for entry in content:
+        div = pq(entry)
+        dataUrl = div('a').attr('data-url')
+        dataTitle = div('a').attr('data-text')
+        if (posts.find_one({"link":dataUrl})):
+            break;
+        page = pq(url=dataUrl)
+        print dataUrl
+        node = page("div.node")
+        content = node("div.content").html().encode("utf-8")
+        str_pubDate = strftime("%Y-%m-%d %H:%M",time.localtime())
+        post={"title":dataTitle, "link":dataUrl,
+                      "published":str_pubDate,
+                      "date": datetime.fromtimestamp(time.time()),
+                      #"summary":entry.summary,
+                      'cat':'zeroHedge',
+                      'subcat':'',
+                      'content':content}
+        post_id = posts.insert(post)
+        print(post_id)
 
 @app.route('/init')
 def init():
