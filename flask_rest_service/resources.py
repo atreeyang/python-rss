@@ -146,7 +146,10 @@ def rssZeroHedge():
         page = pq(url=dataUrl)
         print(dataUrl)
         node = page("div.node")
-        content = node("div.content").html().encode("utf-8")
+        content = node("div.content")
+        if(content is not None):
+            content = content.html().encode("utf-8")
+
         str_pubDate = strftime("%Y-%m-%d %H:%M",time.localtime())
         post={"title":dataTitle, "link":dataUrl,
                       "published":str_pubDate,
