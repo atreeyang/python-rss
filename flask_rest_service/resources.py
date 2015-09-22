@@ -102,11 +102,7 @@ def readRss(urls):
                     break
                 str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
                 print(entry.link)
-<<<<<<< HEAD
                 d = pq(readHtml(entry.link))
-=======
-                d = pq(url=entry.link)
->>>>>>> 029a369e15979f57a52c51c6d0d2c5c8f078b2c7
                 content = d(".content").html()
                 post={"title":entry.title, "link":entry.link,
                       "published":str_pubDate,
@@ -130,14 +126,11 @@ def refreshRss():
     print(time.ctime())
     threading.Timer(60*5, refreshRss).start()
 
-<<<<<<< HEAD
 def readHtml(link):
     r = requests.get(link)
     r.encoding = "utf-8"
     return r.text
 
-=======
->>>>>>> 029a369e15979f57a52c51c6d0d2c5c8f078b2c7
 def readZipUrl(link):
     req = urllib2.Request(link)
     opener = urllib2.build_opener()
@@ -150,11 +143,7 @@ def readZipUrl(link):
 
 def rssZeroHedge():
     posts = client.get_default_database().readings
-<<<<<<< HEAD
     html = readHtml("http://www.zerohedge.com")
-=======
-    html = readZipUrl("http://www.zerohedge.com")
->>>>>>> 029a369e15979f57a52c51c6d0d2c5c8f078b2c7
     d = pq(html)
     content = d(".js-l1")
 
@@ -164,13 +153,11 @@ def rssZeroHedge():
         dataTitle = div('a').attr('data-text')
         if (posts.find_one({"link":dataUrl})):
             break;
-        page = pq(url=dataUrl)
+
+        page = pq(readHtml(dataUrl))
         print(dataUrl)
         node = page("div.node")
-        content = node("div.content")
-        if(content is not None):
-            content = content.html().encode("utf-8")
-
+        content = node("div.content").html()
         str_pubDate = strftime("%Y-%m-%d %H:%M",time.localtime())
         post={"title":dataTitle, "link":dataUrl,
                       "published":str_pubDate,
