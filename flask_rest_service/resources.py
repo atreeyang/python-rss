@@ -127,6 +127,7 @@ def init():
         threading.Timer(5, refreshRss).start()
         app.config['inited'] = 1
     else:
+        threading.Timer(5, refreshRss).start()
         return "already inited"
     return "init...."
 
