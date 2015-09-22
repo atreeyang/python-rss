@@ -144,7 +144,7 @@ def rssZeroHedge():
         if (posts.find_one({"link":dataUrl})):
             break;
         page = pq(url=dataUrl)
-        print dataUrl
+        print(dataUrl)
         node = page("div.node")
         content = node("div.content").html().encode("utf-8")
         str_pubDate = strftime("%Y-%m-%d %H:%M",time.localtime())
