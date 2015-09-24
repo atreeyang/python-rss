@@ -19,8 +19,12 @@ import threading
 import sys
 import requests
 
-reload(sys)
-sys.setdefaultencoding('utf-8')
+import logging
+
+FILE = os.getcwd()
+logging.basicConfig(filename=os.path.join(FILE,'flask_rest_service/static/log.log'),
+                    level=log()ging.DEBUG,format='%(asctime)s:%(message)s',datefmt='%m/%d/%Y %I:%M:%S %p')
+
 
 class ReadingList(restful.Resource):
     def __init__(self, *args, **kwargs):
@@ -90,10 +94,11 @@ urls = [{'cat':'DailyFx', 'subcat':'市场回音', 'url':'http://rss.DailyFx.com
         {'cat':'DailyFx', 'subcat':'机构报告', 'url':'http://rss.DailyFx.com.hk/institution_chg_sc.xml'}]
 
 client = MongoClient(app.config['MONGO_URI'])
+def log(msg):
+    logging.warning(msg)
 
 def readRss(urls):
     posts = client.get_default_database().readings
-    print("refresh the news rss==")
     for url in urls:
         items = feedparser.parse(url['url'])
         try:
@@ -101,7 +106,7 @@ def readRss(urls):
                 if (posts.find_one({"link":entry.link})):
                     break
                 str_pubDate = strftime("%Y-%m-%d %H:%M",entry.date_parsed)
-                print(entry.link)
+                log(entry.link)
                 d = pq(readHtml(entry.link))
                 content = d(".content").html()
                 post={"title":entry.title, "link":entry.link,
@@ -112,19 +117,24 @@ def readRss(urls):
                       'subcat':url['subcat'],
                       'content':content}
                 post_id = posts.insert(post)
-                print(post_id)
+                log(post_id)
         except Exception as e:
-            print(e)
+            log(e)
 
     posts.create_index([("date", -1)])
     posts.create_index([("cat", -1)])
     posts.create_index([("link", 1)])
 
 def refreshRss():
-    rssZeroHedge()
-    readRss(urls)
-    print(time.ctime())
-    threading.Timer(60*5, refreshRss).start()
+    while True:
+        log("begin refresh rss")
+        rssZeroHedge()
+        readRss(urls)
+        log("finish refresh rss")
+        time.sleep(1000 * 10)
+
+t = threading.Thread(target=refreshRss)
+t.start()
 
 def readHtml(link):
     r = requests.get(link)
@@ -155,7 +165,7 @@ def rssZeroHedge():
             break;
 
         page = pq(readHtml(dataUrl))
-        print(dataUrl)
+        log(dataUrl)
         node = page("div.node")
         content = node("div.content").html()
         str_pubDate = strftime("%Y-%m-%d %H:%M",time.localtime())
@@ -166,12 +176,12 @@ def rssZeroHedge():
                       'subcat':'',
                       'content':content}
         post_id = posts.insert(post)
-        print(post_id)
+        log(post_id)
 
 @app.route('/init')
 def init():
     inited = app.config['inited']
-    print(inited)
+    log(inited)
     if (inited == 0):
         threading.Timer(5, refreshRss).start()
         app.config['inited'] = 1
