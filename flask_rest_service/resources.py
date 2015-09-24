@@ -131,7 +131,7 @@ def refreshRss():
         rssZeroHedge()
         readRss(urls)
         log("finish refresh rss")
-        time.sleep(1000 * 10)
+        time.sleep(10)
 
 t = threading.Thread(target=refreshRss)
 t.start()
