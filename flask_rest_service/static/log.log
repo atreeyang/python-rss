@@ -1,0 +1,240 @@
+09/28/2015 12:27:42 AM:begin refresh rss
+09/28/2015 12:27:42 AM: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+09/28/2015 12:27:42 AM: * Restarting with stat
+09/28/2015 12:27:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:43 AM:begin refresh rss
+09/28/2015 12:27:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:44 AM:"GET / HTTP/1.1" 200 17087
+09/28/2015 12:27:44 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:27:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:45 AM:"GET /news/2015-09-27/chinas-hard-landing-has-arrived-chinese-coal-company-fires-100000 HTTP/1.1" 200 24666
+09/28/2015 12:27:47 AM:http://www.zerohedge.com/news/2015-09-27/chinas-hard-landing-has-arrived-chinese-coal-company-fires-100000
+09/28/2015 12:27:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:47 AM:560819030a01b5e6cea9c2d5
+09/28/2015 12:27:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:48 AM:"GET /news/2015-09-27/chinas-hard-landing-has-arrived-chinese-coal-company-fires-100000 HTTP/1.1" 200 24666
+09/28/2015 12:27:48 AM:"GET /news/2015-09-27/us-ropes-china-join-russian-military-syria-while-iraq-strikes-intel-deal-moscow-tehr HTTP/1.1" 200 23024
+09/28/2015 12:27:49 AM:http://www.zerohedge.com/news/2015-09-27/us-ropes-china-join-russian-military-syria-while-iraq-strikes-intel-deal-moscow-tehr
+09/28/2015 12:27:49 AM:http://www.zerohedge.com/news/2015-09-27/chinas-hard-landing-has-arrived-chinese-coal-company-fires-100000
+09/28/2015 12:27:49 AM:560819050a01b5e6cea9c2d6
+09/28/2015 12:27:49 AM:560819050a01b5e6d0669693
+09/28/2015 12:27:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:49 AM:"GET /news/2015-09-27/german-explains-why-vws-moral-demise-burden-entire-nation HTTP/1.1" 200 23726
+09/28/2015 12:27:50 AM:http://www.zerohedge.com/news/2015-09-27/german-explains-why-vws-moral-demise-burden-entire-nation
+09/28/2015 12:27:50 AM:560819060a01b5e6cea9c2d7
+09/28/2015 12:27:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:51 AM:http://www.dailyfx.com.hk/cmarkets/20150925-2013.html
+09/28/2015 12:27:51 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:27:51 AM:"GET /news/2015-09-27/sweeping-interview-putin-calls-us-syria-strategy-illegal-details-russias-support-ass HTTP/1.1" 200 26751
+09/28/2015 12:27:52 AM:"GET /cmarkets/20150925-2013.html HTTP/1.1" 200 13582
+09/28/2015 12:27:52 AM:560819080a01b5e6d0669694
+09/28/2015 12:27:53 AM:http://www.zerohedge.com/news/2015-09-27/sweeping-interview-putin-calls-us-syria-strategy-illegal-details-russias-support-ass
+09/28/2015 12:27:53 AM:560819090a01b5e6cea9c2d8
+09/28/2015 12:27:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:53 AM:http://www.dailyfx.com.hk/commentary/morning-20150926-2813.html
+09/28/2015 12:27:53 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:27:53 AM:127.0.0.1 - - [28/Sep/2015 00:27:53] "GET /readings/ HTTP/1.1" 200 -
+09/28/2015 12:27:54 AM:"GET /news/2015-09-26/paul-craig-roberts-warns-entire-world-may-go-down-tubes-together HTTP/1.1" 200 26337
+09/28/2015 12:27:54 AM:"GET /commentary/morning-20150926-2813.html HTTP/1.1" 200 12902
+09/28/2015 12:27:54 AM:5608190a0a01b5e6d0669695
+09/28/2015 12:27:54 AM:http://www.dailyfx.com.hk/commentary/morning-20150925-2812.html
+09/28/2015 12:27:54 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:27:55 AM:"GET /commentary/morning-20150925-2812.html HTTP/1.1" 200 13320
+09/28/2015 12:27:55 AM:5608190b0a01b5e6d0669696
+09/28/2015 12:27:55 AM:http://www.dailyfx.com.hk/commentary/afternoon-20150925-3066.html
+09/28/2015 12:27:55 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:27:56 AM:http://www.zerohedge.com/news/2015-09-26/paul-craig-roberts-warns-entire-world-may-go-down-tubes-together
+09/28/2015 12:27:56 AM:5608190c0a01b5e6cea9c2d9
+09/28/2015 12:27:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:27:56 AM:"GET /commentary/afternoon-20150925-3066.html HTTP/1.1" 200 12506
+09/28/2015 12:27:56 AM:5608190c0a01b5e6d0669697
+09/28/2015 12:27:57 AM:"GET /news/2015-09-26/meet-man-who-prevented-world-war-iii HTTP/1.1" 200 133732
+09/28/2015 12:27:57 AM:http://www.dailyfx.com.hk/commentary/evening-20150925-2728.html
+09/28/2015 12:27:57 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:27:58 AM:"GET /commentary/evening-20150925-2728.html HTTP/1.1" 200 12190
+09/28/2015 12:27:58 AM:5608190e0a01b5e6d0669698
+09/28/2015 12:27:59 AM:http://www.dailyfx.com.hk/us_dollar_index/20150926-820.html
+09/28/2015 12:27:59 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:00 AM:http://www.zerohedge.com/news/2015-09-26/meet-man-who-prevented-world-war-iii
+09/28/2015 12:28:00 AM:560819100a01b5e6cea9c2da
+09/28/2015 12:28:00 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:00 AM:"GET /us_dollar_index/20150926-820.html HTTP/1.1" 200 11784
+09/28/2015 12:28:00 AM:560819100a01b5e6d0669699
+09/28/2015 12:28:00 AM:http://www.dailyfx.com.hk/us_dollar_index/20150925-819.html
+09/28/2015 12:28:00 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:00 AM:"GET /news/2015-09-26/jim-grant-explains-how-hedge-against-coming-money-paradrop HTTP/1.1" 200 29426
+09/28/2015 12:28:01 AM:"GET /us_dollar_index/20150925-819.html HTTP/1.1" 200 11866
+09/28/2015 12:28:01 AM:560819110a01b5e6d066969a
+09/28/2015 12:28:01 AM:http://www.zerohedge.com/news/2015-09-26/jim-grant-explains-how-hedge-against-coming-money-paradrop
+09/28/2015 12:28:01 AM:560819110a01b5e6cea9c2db
+09/28/2015 12:28:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:02 AM:"GET /news/2015-09-26/reflexivity-wrecks-fed-credibility-crushes-2016-rate-hike-hopes HTTP/1.1" 200 111921
+09/28/2015 12:28:02 AM:http://www.dailyfx.com.hk/analysts/yzm/20150925-553.html
+09/28/2015 12:28:02 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:03 AM:"GET /analysts/yzm/20150925-553.html HTTP/1.1" 200 11764
+09/28/2015 12:28:03 AM:560819130a01b5e6d066969b
+09/28/2015 12:28:03 AM:http://www.dailyfx.com.hk/analysts/fst/20150925-552.html
+09/28/2015 12:28:03 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:04 AM:"GET /analysts/fst/20150925-552.html HTTP/1.1" 200 11598
+09/28/2015 12:28:04 AM:560819140a01b5e6d066969c
+09/28/2015 12:28:04 AM:http://www.dailyfx.com.hk/analysts/cjq/20150925-551.html
+09/28/2015 12:28:04 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:04 AM:http://www.zerohedge.com/news/2015-09-26/reflexivity-wrecks-fed-credibility-crushes-2016-rate-hike-hopes
+09/28/2015 12:28:04 AM:560819140a01b5e6cea9c2dc
+09/28/2015 12:28:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:05 AM:"GET /news/2015-09-26/rumors-persist-cia-helps-export-opium-afghanistan HTTP/1.1" 200 30725
+09/28/2015 12:28:05 AM:"GET /analysts/cjq/20150925-551.html HTTP/1.1" 200 12898
+09/28/2015 12:28:05 AM:560819150a01b5e6d066969d
+09/28/2015 12:28:06 AM:http://www.zerohedge.com/news/2015-09-26/rumors-persist-cia-helps-export-opium-afghanistan
+09/28/2015 12:28:06 AM:560819160a01b5e6cea9c2dd
+09/28/2015 12:28:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:07 AM:"GET /news/2015-09-26/gold-tightness-when-theres-no-more-sell-theres-no-more-buy-any-price HTTP/1.1" 200 146488
+09/28/2015 12:28:07 AM:http://www.dailyfx.com.hk/intraday_techs/20150925-853.html
+09/28/2015 12:28:07 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:07 AM:"GET /intraday_techs/20150925-853.html HTTP/1.1" 200 11312
+09/28/2015 12:28:08 AM:560819180a01b5e6d066969e
+09/28/2015 12:28:08 AM:http://www.dailyfx.com.hk/intraday_techs/20150925-852.html
+09/28/2015 12:28:08 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:08 AM:"GET /intraday_techs/20150925-852.html HTTP/1.1" 200 12509
+09/28/2015 12:28:08 AM:560819180a01b5e6d066969f
+09/28/2015 12:28:09 AM:http://www.zerohedge.com/news/2015-09-26/gold-tightness-when-theres-no-more-sell-theres-no-more-buy-any-price
+09/28/2015 12:28:09 AM:560819190a01b5e6cea9c2de
+09/28/2015 12:28:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:09 AM:"GET /news/2015-09-26/question-day HTTP/1.1" 200 121605
+09/28/2015 12:28:10 AM:http://www.dailyfx.com.hk/feaarticle/20150925-5763.html
+09/28/2015 12:28:10 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:11 AM:"GET /feaarticle/20150925-5763.html HTTP/1.1" 200 12330
+09/28/2015 12:28:11 AM:5608191b0a01b5e6d06696a0
+09/28/2015 12:28:11 AM:http://www.dailyfx.com.hk/feaarticle/20150925-5762.html
+09/28/2015 12:28:11 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:11 AM:http://www.zerohedge.com/news/2015-09-26/question-day
+09/28/2015 12:28:11 AM:5608191b0a01b5e6cea9c2df
+09/28/2015 12:28:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:12 AM:"GET /feaarticle/20150925-5762.html HTTP/1.1" 200 12316
+09/28/2015 12:28:12 AM:5608191c0a01b5e6d06696a1
+09/28/2015 12:28:12 AM:http://www.dailyfx.com.hk/feaarticle/20150925-5761.html
+09/28/2015 12:28:12 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:12 AM:"GET /news/2015-09-26/very-grim-earnings-season-unfolds-all-eyes-will-be-company HTTP/1.1" 200 99410
+09/28/2015 12:28:12 AM:"GET /feaarticle/20150925-5761.html HTTP/1.1" 200 13432
+09/28/2015 12:28:12 AM:5608191c0a01b5e6d06696a2
+09/28/2015 12:28:12 AM:http://www.dailyfx.com.hk/feaarticle/20150925-5760.html
+09/28/2015 12:28:12 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:13 AM:127.0.0.1 - - [28/Sep/2015 00:28:13] "GET /feedback/?contact=ffff&content=fdajljl; HTTP/1.1" 404 -
+09/28/2015 12:28:14 AM:"GET /feaarticle/20150925-5760.html HTTP/1.1" 200 12673
+09/28/2015 12:28:14 AM:5608191e0a01b5e6d06696a3
+09/28/2015 12:28:14 AM:http://www.zerohedge.com/news/2015-09-26/very-grim-earnings-season-unfolds-all-eyes-will-be-company
+09/28/2015 12:28:14 AM:5608191e0a01b5e6cea9c2e0
+09/28/2015 12:28:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:15 AM:"GET /news/2015-09-26/un-unleashes-plan-pushing-worldwide-internet-censorship HTTP/1.1" 200 25785
+09/28/2015 12:28:16 AM:http://www.zerohedge.com/news/2015-09-26/un-unleashes-plan-pushing-worldwide-internet-censorship
+09/28/2015 12:28:16 AM:560819200a01b5e6cea9c2e1
+09/28/2015 12:28:16 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:16 AM:http://www.dailyfx.com.hk/fxcmssi/20150925-493.html
+09/28/2015 12:28:16 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:17 AM:"GET /fxcmssi/20150925-493.html HTTP/1.1" 200 12850
+09/28/2015 12:28:17 AM:"GET /news/2015-09-26/china-cannot-let-happen HTTP/1.1" 200 134178
+09/28/2015 12:28:17 AM:560819210a01b5e6d06696a4
+09/28/2015 12:28:20 AM:http://www.zerohedge.com/news/2015-09-26/china-cannot-let-happen
+09/28/2015 12:28:20 AM:560819240a01b5e6cea9c2e2
+09/28/2015 12:28:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:20 AM:"GET /news/2015-09-26/risky-business-companies-are-now-funding-share-buybacks-selling-bonds-other-companie HTTP/1.1" 200 103552
+09/28/2015 12:28:21 AM:http://www.dailyfx.com.hk/metal/20150925-1273.html
+09/28/2015 12:28:21 AM:Starting new HTTP connection (1): www.dailyfx.com.hk
+09/28/2015 12:28:22 AM:"GET /metal/20150925-1273.html HTTP/1.1" 200 11901
+09/28/2015 12:28:22 AM:560819260a01b5e6d06696a5
+09/28/2015 12:28:23 AM:http://www.zerohedge.com/news/2015-09-26/risky-business-companies-are-now-funding-share-buybacks-selling-bonds-other-companie
+09/28/2015 12:28:23 AM:560819270a01b5e6cea9c2e3
+09/28/2015 12:28:24 AM:finish refresh rss
+09/28/2015 12:28:33 AM:127.0.0.1 - - [28/Sep/2015 00:28:33] "GET /feedback/?contact=ffff&content=fdajljl; HTTP/1.1" 404 -
+09/28/2015 12:28:34 AM:begin refresh rss
+09/28/2015 12:28:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:35 AM:finish refresh rss
+09/28/2015 12:28:35 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:28:45 AM:begin refresh rss
+09/28/2015 12:28:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:45 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:28:46 AM:finish refresh rss
+09/28/2015 12:28:56 AM:finish refresh rss
+09/28/2015 12:28:56 AM:begin refresh rss
+09/28/2015 12:28:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:28:57 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:29:06 AM:begin refresh rss
+09/28/2015 12:29:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:29:07 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:29:17 AM:finish refresh rss
+09/28/2015 12:29:23 AM:finish refresh rss
+09/28/2015 12:29:27 AM:begin refresh rss
+09/28/2015 12:29:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:29:29 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:29:30 AM: * Detected change in '/Users/atreeyang/workspace/python-rss/flask_rest_service/resources.py', reloading
+09/28/2015 12:29:33 AM:begin refresh rss
+09/28/2015 12:29:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:29:33 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:29:39 AM:finish refresh rss
+09/28/2015 12:29:42 AM:finish refresh rss
+09/28/2015 12:29:49 AM:begin refresh rss
+09/28/2015 12:29:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:29:50 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:29:52 AM:begin refresh rss
+09/28/2015 12:29:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:29:53 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:29:54 AM:127.0.0.1 - - [28/Sep/2015 00:29:54] "GET /feedback/?contact=ffff&content=fdajljl; HTTP/1.1" 404 -
+09/28/2015 12:30:01 AM:finish refresh rss
+09/28/2015 12:30:02 AM:finish refresh rss
+09/28/2015 12:30:05 AM:127.0.0.1 - - [28/Sep/2015 00:30:05] "GET /feedback?contact=ffff&content=fdajljl; HTTP/1.1" 500 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+09/28/2015 12:30:06 AM:127.0.0.1 - - [28/Sep/2015 00:30:06] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:30:11 AM:begin refresh rss
+09/28/2015 12:30:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:12 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:30:12 AM:begin refresh rss
+09/28/2015 12:30:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:13 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:30:25 AM:finish refresh rss
+09/28/2015 12:30:26 AM:finish refresh rss
+09/28/2015 12:30:35 AM:begin refresh rss
+09/28/2015 12:30:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:36 AM:begin refresh rss
+09/28/2015 12:30:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:36 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:30:36 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:30:46 AM:finish refresh rss
+09/28/2015 12:30:47 AM:finish refresh rss
+09/28/2015 12:30:56 AM:begin refresh rss
+09/28/2015 12:30:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:57 AM:begin refresh rss
+09/28/2015 12:30:57 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:30:57 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:30:57 AM:"GET / HTTP/1.1" 200 16736
+09/28/2015 12:31:02 AM:127.0.0.1 - - [28/Sep/2015 00:31:02] "GET /feedback?contact=ffff&content=fdajljl; HTTP/1.1" 500 -
+09/28/2015 12:31:02 AM:127.0.0.1 - - [28/Sep/2015 00:31:02] "GET /feedback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/28/2015 12:31:02 AM:127.0.0.1 - - [28/Sep/2015 00:31:02] "GET /feedback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+09/28/2015 12:31:02 AM:127.0.0.1 - - [28/Sep/2015 00:31:02] "GET /feedback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/28/2015 12:31:03 AM:127.0.0.1 - - [28/Sep/2015 00:31:03] "GET /feedback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+09/28/2015 12:31:03 AM:127.0.0.1 - - [28/Sep/2015 00:31:03] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:31:03 AM:127.0.0.1 - - [28/Sep/2015 00:31:03] "GET /feedback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+09/28/2015 12:31:03 AM:127.0.0.1 - - [28/Sep/2015 00:31:03] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?contact=ffff&content=fdajljl; HTTP/1.1" 500 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+09/28/2015 12:31:09 AM:127.0.0.1 - - [28/Sep/2015 00:31:09] "GET /feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+09/28/2015 12:31:13 AM:finish refresh rss
+09/28/2015 12:31:13 AM:finish refresh rss
+09/28/2015 12:31:49 AM:begin refresh rss
+09/28/2015 12:31:49 AM: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+09/28/2015 12:31:49 AM: * Restarting with stat
+09/28/2015 12:31:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:31:49 AM:begin refresh rss
+09/28/2015 12:31:50 AM:"GET / HTTP/1.1" 200 16904
+09/28/2015 12:31:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+09/28/2015 12:31:50 AM:"GET / HTTP/1.1" 200 16687
+09/28/2015 12:31:52 AM:127.0.0.1 - - [28/Sep/2015 00:31:52] "GET /feedback?contact=ffff&content=fdajljl; HTTP/1.1" 200 -

@@ -35,8 +35,6 @@ class ReadingList(restful.Resource):
     def get(self):
         offset = int(request.args.get('offset', 0))
         limit = int(request.args.get('limit', 20))
-        print(offset)
-        print(limit)
         cat = request.args.get('cat', 'dailyfx')
         res = {'status':0,
                'entries':[x for x in mongo.db.readings.find({'cat':cat},{'title':1,'published':1,'subcat':1})
@@ -190,10 +188,14 @@ def init():
         return "already inited"
     return "init...."
 
-@app.route('/clear')
+@app.route('/feedback')
 def clear():
-    client.get_default_database().readings.drop()
-    return "clear...."
+    contact = request.args.get('contact', '')
+    content = request.args.get('content', '')
+    feedback = client.get_default_database().feedbacks
+    feedback.insert({'contact':contact, 'content':content})
+    return "success"
+
 
 
 api.add_resource(ReadingList, '/readings/')
