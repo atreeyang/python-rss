@@ -188,7 +188,7 @@ def init():
         return "already inited"
     return "init...."
 
-@app.route('/feedback')
+@app.route('/feedback/', methods=['POST'])
 def clear():
     contact = request.args.get('contact', '')
     content = request.args.get('content', '')
