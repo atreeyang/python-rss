@@ -189,7 +189,15 @@ def init():
     return "init...."
 
 @app.route('/feedback/', methods=['POST'])
-def clear():
+def feedback():
+    contact = request.args.get('contact', '')
+    content = request.args.get('content', '')
+    feedback = client.get_default_database().feedbacks
+    feedback.insert({'contact':contact, 'content':content})
+    return "success"
+
+@app.route('/getFeedback/')
+def getFeedback():
     contact = request.args.get('contact', '')
     content = request.args.get('content', '')
     feedback = client.get_default_database().feedbacks
