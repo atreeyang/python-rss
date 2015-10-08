@@ -238,3 +238,323 @@
 09/28/2015 12:31:50 AM:Starting new HTTP connection (1): www.zerohedge.com
 09/28/2015 12:31:50 AM:"GET / HTTP/1.1" 200 16687
 09/28/2015 12:31:52 AM:127.0.0.1 - - [28/Sep/2015 00:31:52] "GET /feedback?contact=ffff&content=fdajljl; HTTP/1.1" 200 -
+10/08/2015 10:45:25 PM:begin refresh rss
+10/08/2015 10:45:25 PM: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+10/08/2015 10:45:25 PM: * Restarting with stat
+10/08/2015 10:45:26 PM:begin refresh rss
+10/08/2015 10:45:27 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:27 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:29 PM:"GET / HTTP/1.1" 200 17770
+10/08/2015 10:45:29 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:30 PM:"GET /news/2015-10-08/assad-launches-major-offensive-syria-russia-stations-ground-battalion-and-nato-threa HTTP/1.1" 200 29279
+10/08/2015 10:45:30 PM:"GET / HTTP/1.1" 200 17770
+10/08/2015 10:45:32 PM:http://www.zerohedge.com/news/2015-10-08/assad-launches-major-offensive-syria-russia-stations-ground-battalion-and-nato-threa
+10/08/2015 10:45:32 PM:5616818c0a01b51963c1ebef
+10/08/2015 10:45:32 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:32 PM:"GET /news/2015-10-08/according-bernanke-was-biggest-impact-qe HTTP/1.1" 200 19918
+10/08/2015 10:45:33 PM:http://www.zerohedge.com/news/2015-10-08/according-bernanke-was-biggest-impact-qe
+10/08/2015 10:45:33 PM:5616818d0a01b51963c1ebf0
+10/08/2015 10:45:33 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:33 PM:127.0.0.1 - - [08/Oct/2015 22:45:33] "GET /readings/ HTTP/1.1" 200 -
+10/08/2015 10:45:33 PM:http://www.dailyfx.com.hk/cmarkets/20151008-2016.html
+10/08/2015 10:45:33 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:34 PM:"GET /news/2015-10-08/when-aristocracy-leaves-commoners-dust-empire-doomed HTTP/1.1" 200 15630
+10/08/2015 10:45:34 PM:127.0.0.1 - - [08/Oct/2015 22:45:34] "GET /favicon.ico HTTP/1.1" 404 -
+10/08/2015 10:45:34 PM:"GET /cmarkets/20151008-2016.html HTTP/1.1" 200 11630
+10/08/2015 10:45:34 PM:5616818e0a01b51966e02b82
+10/08/2015 10:45:34 PM:http://www.dailyfx.com.hk/cmarkets/20151007-2015.html
+10/08/2015 10:45:34 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:34 PM:http://www.zerohedge.com/news/2015-10-08/when-aristocracy-leaves-commoners-dust-empire-doomed
+10/08/2015 10:45:34 PM:5616818e0a01b51963c1ebf1
+10/08/2015 10:45:34 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:35 PM:"GET /cmarkets/20151007-2015.html HTTP/1.1" 200 11662
+10/08/2015 10:45:35 PM:5616818f0a01b51966e02b83
+10/08/2015 10:45:35 PM:http://www.dailyfx.com.hk/cmarkets/20150929-2014.html
+10/08/2015 10:45:35 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:35 PM:"GET /news/2015-10-08/brazilian-nightmare-continues-rousseff-suffers-major-setback-impeachment-looms HTTP/1.1" 200 92522
+10/08/2015 10:45:36 PM:"GET /cmarkets/20150929-2014.html HTTP/1.1" 200 11438
+10/08/2015 10:45:37 PM:561681910a01b51966e02b84
+10/08/2015 10:45:37 PM:http://www.dailyfx.com.hk/commentary/morning-20151008-2822.html
+10/08/2015 10:45:37 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:38 PM:http://www.zerohedge.com/news/2015-10-08/brazilian-nightmare-continues-rousseff-suffers-major-setback-impeachment-looms
+10/08/2015 10:45:38 PM:561681920a01b51963c1ebf2
+10/08/2015 10:45:38 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:38 PM:"GET /news/2015-10-08/volkswagen-america-ceo-grilled-congress-over-emissions-scandal-live-webcast HTTP/1.1" 200 17700
+10/08/2015 10:45:39 PM:"GET /commentary/morning-20151008-2822.html HTTP/1.1" 200 11316
+10/08/2015 10:45:39 PM:http://www.zerohedge.com/news/2015-10-08/volkswagen-america-ceo-grilled-congress-over-emissions-scandal-live-webcast
+10/08/2015 10:45:39 PM:561681930a01b51963c1ebf3
+10/08/2015 10:45:39 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:39 PM:561681930a01b51966e02b85
+10/08/2015 10:45:39 PM:http://www.dailyfx.com.hk/commentary/morning-20151007-2821.html
+10/08/2015 10:45:39 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:40 PM:"GET /news/2015-10-08/hsbc-asks-if-us-turning-european-or-it-japanese-it-cuts-10-year-forecast-28-15 HTTP/1.1" 200 18746
+10/08/2015 10:45:40 PM:"GET /commentary/morning-20151007-2821.html HTTP/1.1" 200 11675
+10/08/2015 10:45:40 PM:http://www.zerohedge.com/news/2015-10-08/hsbc-asks-if-us-turning-european-or-it-japanese-it-cuts-10-year-forecast-28-15
+10/08/2015 10:45:40 PM:561681940a01b51963c1ebf4
+10/08/2015 10:45:40 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:40 PM:561681940a01b51966e02b86
+10/08/2015 10:45:40 PM:http://www.dailyfx.com.hk/commentary/morning-20151006-2820.html
+10/08/2015 10:45:40 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:41 PM:"GET /news/2015-10-08/saudi-arabia-declares-spending-moratorium-oil-rout-bankrupts-kingdom HTTP/1.1" 200 22777
+10/08/2015 10:45:41 PM:"GET /commentary/morning-20151006-2820.html HTTP/1.1" 200 12194
+10/08/2015 10:45:42 PM:561681960a01b51966e02b87
+10/08/2015 10:45:42 PM:http://www.dailyfx.com.hk/commentary/morning-20151003-2819.html
+10/08/2015 10:45:42 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:42 PM:http://www.zerohedge.com/news/2015-10-08/saudi-arabia-declares-spending-moratorium-oil-rout-bankrupts-kingdom
+10/08/2015 10:45:42 PM:561681960a01b51963c1ebf5
+10/08/2015 10:45:42 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:42 PM:"GET /commentary/morning-20151003-2819.html HTTP/1.1" 200 11686
+10/08/2015 10:45:43 PM:"GET /news/2015-10-08/bezzle-bummer-mirage-psychic-wealth HTTP/1.1" 200 75349
+10/08/2015 10:45:43 PM:561681970a01b51966e02b88
+10/08/2015 10:45:43 PM:http://www.dailyfx.com.hk/commentary/morning-20151002-2818.html
+10/08/2015 10:45:43 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:44 PM:"GET /commentary/morning-20151002-2818.html HTTP/1.1" 200 11822
+10/08/2015 10:45:44 PM:561681980a01b51966e02b89
+10/08/2015 10:45:44 PM:http://www.dailyfx.com.hk/commentary/morning-20151001-2817.html
+10/08/2015 10:45:44 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:44 PM:http://www.zerohedge.com/news/2015-10-08/bezzle-bummer-mirage-psychic-wealth
+10/08/2015 10:45:44 PM:561681980a01b51963c1ebf6
+10/08/2015 10:45:44 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:45 PM:"GET /commentary/morning-20151001-2817.html HTTP/1.1" 200 11900
+10/08/2015 10:45:45 PM:"GET /news/2015-10-08/gartman-vs-goldman-oil-rally-fade-warns-blankfeins-bank HTTP/1.1" 200 19522
+10/08/2015 10:45:46 PM:5616819a0a01b51966e02b8a
+10/08/2015 10:45:46 PM:http://www.dailyfx.com.hk/commentary/morning-20150930-2815.html
+10/08/2015 10:45:46 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:46 PM:http://www.zerohedge.com/news/2015-10-08/gartman-vs-goldman-oil-rally-fade-warns-blankfeins-bank
+10/08/2015 10:45:46 PM:5616819a0a01b51963c1ebf7
+10/08/2015 10:45:46 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:46 PM:"GET /commentary/morning-20150930-2815.html HTTP/1.1" 200 11702
+10/08/2015 10:45:46 PM:5616819a0a01b51966e02b8b
+10/08/2015 10:45:46 PM:http://www.dailyfx.com.hk/commentary/morning-20150929-2814.html
+10/08/2015 10:45:46 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:47 PM:"GET /news/2015-10-08/day-after-deutsche-bank-admits-not-all-well-swiss-giant-credit-suisse-also-admits-it HTTP/1.1" 200 103230
+10/08/2015 10:45:47 PM:"GET /commentary/morning-20150929-2814.html HTTP/1.1" 200 12517
+10/08/2015 10:45:47 PM:5616819b0a01b51966e02b8c
+10/08/2015 10:45:48 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151008-3075.html
+10/08/2015 10:45:48 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:49 PM:"GET /commentary/afternoon-20151008-3075.html HTTP/1.1" 200 11999
+10/08/2015 10:45:49 PM:5616819d0a01b51966e02b8d
+10/08/2015 10:45:49 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151007-3074.html
+10/08/2015 10:45:49 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:50 PM:"GET /commentary/afternoon-20151007-3074.html HTTP/1.1" 200 11874
+10/08/2015 10:45:50 PM:5616819e0a01b51966e02b8e
+10/08/2015 10:45:50 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151006-3073.html
+10/08/2015 10:45:50 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:50 PM:"GET /commentary/afternoon-20151006-3073.html HTTP/1.1" 200 11178
+10/08/2015 10:45:50 PM:5616819e0a01b51966e02b8f
+10/08/2015 10:45:50 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151005-3072.html
+10/08/2015 10:45:50 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:50 PM:127.0.0.1 - - [08/Oct/2015 22:45:50] "GET /readings/ HTTP/1.1" 200 -
+10/08/2015 10:45:51 PM:http://www.zerohedge.com/news/2015-10-08/day-after-deutsche-bank-admits-not-all-well-swiss-giant-credit-suisse-also-admits-it
+10/08/2015 10:45:51 PM:5616819f0a01b51963c1ebf8
+10/08/2015 10:45:51 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:52 PM:"GET /commentary/afternoon-20151005-3072.html HTTP/1.1" 200 11154
+10/08/2015 10:45:52 PM:561681a00a01b51966e02b90
+10/08/2015 10:45:52 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151002-3071.html
+10/08/2015 10:45:52 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:52 PM:"GET /commentary/afternoon-20151002-3071.html HTTP/1.1" 200 10991
+10/08/2015 10:45:52 PM:"GET /news/2015-10-08/despite-surging-job-cuts-initial-jobless-claims-tumbles-back-near-42-year-lows HTTP/1.1" 200 100711
+10/08/2015 10:45:52 PM:561681a00a01b51966e02b91
+10/08/2015 10:45:52 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151001-3070.html
+10/08/2015 10:45:52 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:53 PM:"GET /commentary/afternoon-20151001-3070.html HTTP/1.1" 200 11265
+10/08/2015 10:45:53 PM:561681a10a01b51966e02b92
+10/08/2015 10:45:53 PM:http://www.dailyfx.com.hk/commentary/afternoon-20150930-3069.html
+10/08/2015 10:45:53 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:53 PM:"GET /commentary/afternoon-20150930-3069.html HTTP/1.1" 200 11462
+10/08/2015 10:45:54 PM:561681a20a01b51966e02b93
+10/08/2015 10:45:54 PM:http://www.dailyfx.com.hk/commentary/afternoon-20150929-3068.html
+10/08/2015 10:45:54 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:54 PM:"GET /commentary/afternoon-20150929-3068.html HTTP/1.1" 200 11275
+10/08/2015 10:45:54 PM:561681a20a01b51966e02b94
+10/08/2015 10:45:54 PM:http://www.dailyfx.com.hk/commentary/afternoon-20150928-3067.html
+10/08/2015 10:45:54 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:54 PM:http://www.zerohedge.com/news/2015-10-08/despite-surging-job-cuts-initial-jobless-claims-tumbles-back-near-42-year-lows
+10/08/2015 10:45:54 PM:561681a20a01b51963c1ebf9
+10/08/2015 10:45:54 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:55 PM:"GET /news/2015-10-08/silver-loses-key-technical-support-after-weak-china-open-plunge HTTP/1.1" 200 21758
+10/08/2015 10:45:55 PM:"GET /commentary/afternoon-20150928-3067.html HTTP/1.1" 200 11342
+10/08/2015 10:45:55 PM:561681a30a01b51966e02b95
+10/08/2015 10:45:56 PM:http://www.dailyfx.com.hk/commentary/evening-20151002-2729.html
+10/08/2015 10:45:56 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:57 PM:"GET /commentary/evening-20151002-2729.html HTTP/1.1" 200 11484
+10/08/2015 10:45:57 PM:561681a50a01b51966e02b96
+10/08/2015 10:45:57 PM:http://www.zerohedge.com/news/2015-10-08/silver-loses-key-technical-support-after-weak-china-open-plunge
+10/08/2015 10:45:57 PM:561681a50a01b51963c1ebfa
+10/08/2015 10:45:57 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:45:57 PM:http://www.dailyfx.com.hk/us_dollar_index/20151002-821.html
+10/08/2015 10:45:57 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:45:57 PM:"GET /news/2015-10-08/ecb-will-again-frontload-bond-purchases-ahead-winter-no-advance-leak-hedge-funds-tim HTTP/1.1" 200 69771
+10/08/2015 10:45:59 PM:"GET /us_dollar_index/20151002-821.html HTTP/1.1" 200 11760
+10/08/2015 10:45:59 PM:561681a70a01b51966e02b97
+10/08/2015 10:45:59 PM:http://www.zerohedge.com/news/2015-10-08/ecb-will-again-frontload-bond-purchases-ahead-winter-no-advance-leak-hedge-funds-tim
+10/08/2015 10:45:59 PM:561681a70a01b51963c1ebfb
+10/08/2015 10:45:59 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:46:00 PM:http://www.dailyfx.com.hk/us_dollar_index_techs/20151008-547.html
+10/08/2015 10:46:00 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:00 PM:"GET /news/2015-10-08/frontrunning-october-8 HTTP/1.1" 200 80763
+10/08/2015 10:46:00 PM:"GET /us_dollar_index_techs/20151008-547.html HTTP/1.1" 200 10653
+10/08/2015 10:46:00 PM:561681a80a01b51966e02b98
+10/08/2015 10:46:02 PM:http://www.zerohedge.com/news/2015-10-08/frontrunning-october-8
+10/08/2015 10:46:02 PM:561681aa0a01b51963c1ebfc
+10/08/2015 10:46:02 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:46:02 PM:http://www.dailyfx.com.hk/analysts/cjq/20151008-559.html
+10/08/2015 10:46:02 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:02 PM:"GET /analysts/cjq/20151008-559.html HTTP/1.1" 200 12283
+10/08/2015 10:46:02 PM:561681aa0a01b51966e02b99
+10/08/2015 10:46:02 PM:http://www.dailyfx.com.hk/analysts/cjq/20151006-558.html
+10/08/2015 10:46:02 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:03 PM:"GET /news/2015-10-08/futures-slump-lack-chinese-euphoria-despite-more-terrible-economic-data HTTP/1.1" 200 108277
+10/08/2015 10:46:03 PM:"GET /analysts/cjq/20151006-558.html HTTP/1.1" 200 12244
+10/08/2015 10:46:04 PM:561681ac0a01b51966e02b9a
+10/08/2015 10:46:04 PM:http://www.dailyfx.com.hk/analysts/cjq/20151005-557.html
+10/08/2015 10:46:04 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:05 PM:http://www.zerohedge.com/news/2015-10-08/futures-slump-lack-chinese-euphoria-despite-more-terrible-economic-data
+10/08/2015 10:46:05 PM:561681ad0a01b51963c1ebfd
+10/08/2015 10:46:05 PM:"GET /analysts/cjq/20151005-557.html HTTP/1.1" 200 12129
+10/08/2015 10:46:05 PM:561681ad0a01b51966e02b9b
+10/08/2015 10:46:05 PM:http://www.dailyfx.com.hk/analysts/zgt/20150930-556.html
+10/08/2015 10:46:05 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:06 PM:"GET /analysts/zgt/20150930-556.html HTTP/1.1" 200 12133
+10/08/2015 10:46:06 PM:561681ae0a01b51966e02b9c
+10/08/2015 10:46:06 PM:http://www.dailyfx.com.hk/analysts/cjq/20150929-555.html
+10/08/2015 10:46:06 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:07 PM:"GET /analysts/cjq/20150929-555.html HTTP/1.1" 200 12582
+10/08/2015 10:46:08 PM:561681b00a01b51966e02b9d
+10/08/2015 10:46:08 PM:http://www.dailyfx.com.hk/analysts/zgt/20150929-554.html
+10/08/2015 10:46:08 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:08 PM:"GET /analysts/zgt/20150929-554.html HTTP/1.1" 200 11677
+10/08/2015 10:46:10 PM:561681b20a01b51966e02b9e
+10/08/2015 10:46:11 PM:http://www.dailyfx.com.hk/intraday_techs/20151008-856.html
+10/08/2015 10:46:11 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:13 PM:http://www.dailyfx.com.hk/intraday_techs/20151008-856.html
+10/08/2015 10:46:13 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:13 PM:"GET /intraday_techs/20151008-856.html HTTP/1.1" 200 11781
+10/08/2015 10:46:13 PM:561681b50a01b51963c1ebfe
+10/08/2015 10:46:13 PM:http://www.dailyfx.com.hk/intraday_techs/20151007-855.html
+10/08/2015 10:46:13 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:13 PM:"GET /intraday_techs/20151008-856.html HTTP/1.1" 200 11781
+10/08/2015 10:46:13 PM:561681b50a01b51966e02b9f
+10/08/2015 10:46:13 PM:http://www.dailyfx.com.hk/intraday_techs/20151007-855.html
+10/08/2015 10:46:13 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:14 PM:"GET /intraday_techs/20151007-855.html HTTP/1.1" 200 11308
+10/08/2015 10:46:14 PM:"GET /intraday_techs/20151007-855.html HTTP/1.1" 200 11308
+10/08/2015 10:46:14 PM:561681b60a01b51966e02ba0
+10/08/2015 10:46:14 PM:http://www.dailyfx.com.hk/intraday_techs/20150930-854.html
+10/08/2015 10:46:14 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:14 PM:"GET /intraday_techs/20150930-854.html HTTP/1.1" 200 10616
+10/08/2015 10:46:14 PM:561681b60a01b51966e02ba1
+10/08/2015 10:46:15 PM:561681b70a01b51963c1ebff
+10/08/2015 10:46:15 PM:http://www.dailyfx.com.hk/winners_and_losers/20151008-671.html
+10/08/2015 10:46:15 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:15 PM:http://www.dailyfx.com.hk/winners_and_losers/20151008-671.html
+10/08/2015 10:46:15 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:16 PM:"GET /winners_and_losers/20151008-671.html HTTP/1.1" 200 11002
+10/08/2015 10:46:16 PM:"GET /winners_and_losers/20151008-671.html HTTP/1.1" 200 11002
+10/08/2015 10:46:16 PM:561681b80a01b51963c1ec00
+10/08/2015 10:46:16 PM:http://www.dailyfx.com.hk/winners_and_losers/20151007-670.html
+10/08/2015 10:46:16 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:16 PM:561681b80a01b51966e02ba2
+10/08/2015 10:46:16 PM:http://www.dailyfx.com.hk/winners_and_losers/20151007-670.html
+10/08/2015 10:46:16 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:16 PM:"GET /winners_and_losers/20151007-670.html HTTP/1.1" 200 11748
+10/08/2015 10:46:16 PM:"GET /winners_and_losers/20151007-670.html HTTP/1.1" 200 11748
+10/08/2015 10:46:17 PM:561681b90a01b51963c1ec01
+10/08/2015 10:46:17 PM:561681b90a01b51966e02ba3
+10/08/2015 10:46:17 PM:http://www.dailyfx.com.hk/feaarticle/20151008-5773.html
+10/08/2015 10:46:17 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:18 PM:"GET /feaarticle/20151008-5773.html HTTP/1.1" 200 11600
+10/08/2015 10:46:18 PM:561681ba0a01b51963c1ec02
+10/08/2015 10:46:18 PM:http://www.dailyfx.com.hk/feaarticle/20151007-5772.html
+10/08/2015 10:46:18 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:19 PM:http://www.dailyfx.com.hk/cotreport/20151008-2442.html
+10/08/2015 10:46:19 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:19 PM:"GET /cotreport/20151008-2442.html HTTP/1.1" 200 12328
+10/08/2015 10:46:19 PM:561681bb0a01b51966e02ba4
+10/08/2015 10:46:20 PM:"GET /feaarticle/20151007-5772.html HTTP/1.1" 200 12703
+10/08/2015 10:46:20 PM:561681bc0a01b51963c1ec03
+10/08/2015 10:46:20 PM:http://www.dailyfx.com.hk/feaarticle/20151007-5771.html
+10/08/2015 10:46:20 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:21 PM:"GET /feaarticle/20151007-5771.html HTTP/1.1" 200 12107
+10/08/2015 10:46:21 PM:561681bd0a01b51963c1ec04
+10/08/2015 10:46:21 PM:http://www.dailyfx.com.hk/feaarticle/20151006-5770.html
+10/08/2015 10:46:21 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:21 PM:http://www.dailyfx.com.hk/outlook/20151005-2935.html
+10/08/2015 10:46:21 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:22 PM:"GET /feaarticle/20151006-5770.html HTTP/1.1" 200 11432
+10/08/2015 10:46:22 PM:561681be0a01b51963c1ec05
+10/08/2015 10:46:22 PM:http://www.dailyfx.com.hk/feaarticle/20151001-5769.html
+10/08/2015 10:46:22 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:22 PM:"GET /outlook/20151005-2935.html HTTP/1.1" 200 16983
+10/08/2015 10:46:22 PM:561681be0a01b51966e02ba5
+10/08/2015 10:46:22 PM:http://www.dailyfx.com.hk/outlook/20150928-2930.html
+10/08/2015 10:46:22 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:23 PM:"GET /outlook/20150928-2930.html HTTP/1.1" 200 15705
+10/08/2015 10:46:23 PM:"GET /feaarticle/20151001-5769.html HTTP/1.1" 200 11826
+10/08/2015 10:46:23 PM:561681bf0a01b51963c1ec06
+10/08/2015 10:46:23 PM:http://www.dailyfx.com.hk/feaarticle/20151001-5768.html
+10/08/2015 10:46:23 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:23 PM:561681bf0a01b51966e02ba6
+10/08/2015 10:46:24 PM:"GET /feaarticle/20151001-5768.html HTTP/1.1" 200 11315
+10/08/2015 10:46:24 PM:561681c00a01b51963c1ec07
+10/08/2015 10:46:24 PM:http://www.dailyfx.com.hk/feaarticle/20151001-5767.html
+10/08/2015 10:46:24 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:24 PM:"GET /feaarticle/20151001-5767.html HTTP/1.1" 200 11373
+10/08/2015 10:46:24 PM:561681c00a01b51963c1ec08
+10/08/2015 10:46:24 PM:http://www.dailyfx.com.hk/feaarticle/20151001-5766.html
+10/08/2015 10:46:24 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:24 PM:http://www.dailyfx.com.hk/metal/20151008-1276.html
+10/08/2015 10:46:24 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:25 PM:"GET /metal/20151008-1276.html HTTP/1.1" 200 11478
+10/08/2015 10:46:25 PM:"GET /feaarticle/20151001-5766.html HTTP/1.1" 200 11591
+10/08/2015 10:46:25 PM:561681c10a01b51963c1ec09
+10/08/2015 10:46:25 PM:http://www.dailyfx.com.hk/feaarticle/20150930-5765.html
+10/08/2015 10:46:25 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:25 PM:561681c10a01b51966e02ba7
+10/08/2015 10:46:25 PM:http://www.dailyfx.com.hk/metal/20151007-1275.html
+10/08/2015 10:46:25 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:26 PM:"GET /metal/20151007-1275.html HTTP/1.1" 200 11289
+10/08/2015 10:46:26 PM:561681c20a01b51966e02ba8
+10/08/2015 10:46:26 PM:http://www.dailyfx.com.hk/metal/20151006-1274.html
+10/08/2015 10:46:26 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:26 PM:"GET /feaarticle/20150930-5765.html HTTP/1.1" 200 11607
+10/08/2015 10:46:27 PM:"GET /metal/20151006-1274.html HTTP/1.1" 200 11292
+10/08/2015 10:46:27 PM:561681c30a01b51966e02ba9
+10/08/2015 10:46:27 PM:561681c30a01b51963c1ec0a
+10/08/2015 10:46:27 PM:http://www.dailyfx.com.hk/feaarticle/20150930-5764.html
+10/08/2015 10:46:27 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/08/2015 10:46:29 PM:"GET /feaarticle/20150930-5764.html HTTP/1.1" 200 11098
+10/08/2015 10:46:29 PM:561681c50a01b51963c1ec0b
+10/08/2015 10:46:29 PM:finish refresh rss
+10/08/2015 10:46:32 PM:finish refresh rss
+10/08/2015 10:46:39 PM:begin refresh rss
+10/08/2015 10:46:39 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:46:40 PM:"GET / HTTP/1.1" 200 18842
+10/08/2015 10:46:42 PM:begin refresh rss
+10/08/2015 10:46:42 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:46:43 PM:"GET / HTTP/1.1" 200 97378
+10/08/2015 10:46:57 PM:finish refresh rss
+10/08/2015 10:46:57 PM:127.0.0.1 - - [08/Oct/2015 22:46:57] "GET /readings/ HTTP/1.1" 200 -
+10/08/2015 10:46:58 PM:127.0.0.1 - - [08/Oct/2015 22:46:58] "GET /readings/ HTTP/1.1" 200 -
+10/08/2015 10:47:00 PM:finish refresh rss
+10/08/2015 10:47:07 PM:begin refresh rss
+10/08/2015 10:47:07 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:47:07 PM:"GET / HTTP/1.1" 200 18842
+10/08/2015 10:47:10 PM:begin refresh rss
+10/08/2015 10:47:10 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:47:10 PM:127.0.0.1 - - [08/Oct/2015 22:47:10] "GET /readings/?cat=DailyFx HTTP/1.1" 200 -
+10/08/2015 10:47:10 PM:"GET / HTTP/1.1" 200 18842
+10/08/2015 10:47:20 PM:127.0.0.1 - - [08/Oct/2015 22:47:20] "GET /readings/?cat=ZeroHedge HTTP/1.1" 200 -
+10/08/2015 10:47:24 PM:finish refresh rss
+10/08/2015 10:47:32 PM:finish refresh rss
+10/08/2015 10:47:34 PM:begin refresh rss
+10/08/2015 10:47:34 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:47:35 PM:"GET / HTTP/1.1" 200 18842
+10/08/2015 10:47:42 PM:begin refresh rss
+10/08/2015 10:47:42 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:47:42 PM:"GET / HTTP/1.1" 200 85606
+10/08/2015 10:47:47 PM:finish refresh rss
+10/08/2015 10:47:55 PM:finish refresh rss
+10/08/2015 10:47:57 PM:begin refresh rss
+10/08/2015 10:47:57 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/08/2015 10:47:58 PM:"GET / HTTP/1.1" 200 18842
