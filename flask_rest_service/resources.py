@@ -89,11 +89,18 @@ def feedback():
 @app.route('/getFeedback/')
 def getFeedback():
     res = {'status':0,
-           'entries':[x for x in mongo.db.feedbacks.find()
-                          .sort('date',-1).skip(offset).limit(limit)]}
+           'entries':[x for x in mongo.db.feedbacks.find()]}
+    print(res)
     return  res
 
 
+class MyFeedback(restful.Resource):
+    def get(self):
+        res = {'status':0,
+               'entries':[x for x in mongo.db.feedbacks.find()]}
+        return res
 
+
+api.add_resource(MyFeedback, '/myfeedback/')
 api.add_resource(ReadingList, '/readings/')
 api.add_resource(Reading, '/readings/<ObjectId:reading_id>')
