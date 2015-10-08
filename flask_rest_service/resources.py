@@ -80,6 +80,7 @@ def init():
 
 @app.route('/feedback/', methods=['POST'])
 def feedback():
+    client = MongoClient(app.config['MONGO_URI'])
     contact = request.args.get('contact', '')
     content = request.args.get('content', '')
     feedback = client.get_default_database().feedbacks
