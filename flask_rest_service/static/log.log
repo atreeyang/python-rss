@@ -1219,3 +1219,1653 @@
 10/09/2015 12:00:53 AM:127.0.0.1 - - [09/Oct/2015 00:00:53] "GET /myfeedback/ HTTP/1.1" 200 -
 10/09/2015 12:01:04 AM:finish refresh rss
 10/09/2015 12:01:08 AM:finish refresh rss
+10/09/2015 12:01:14 AM:begin refresh rss
+10/09/2015 12:01:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:01:16 AM:"GET / HTTP/1.1" 200 17342
+10/09/2015 12:01:18 AM:begin refresh rss
+10/09/2015 12:01:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:01:19 AM:"GET / HTTP/1.1" 200 17342
+10/09/2015 12:01:37 AM:finish refresh rss
+10/09/2015 12:01:37 AM:finish refresh rss
+10/09/2015 12:01:47 AM:begin refresh rss
+10/09/2015 12:01:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:01:47 AM:begin refresh rss
+10/09/2015 12:01:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:01:49 AM:"GET / HTTP/1.1" 200 17191
+10/09/2015 12:01:49 AM:"GET / HTTP/1.1" 200 17191
+10/09/2015 12:02:01 AM:finish refresh rss
+10/09/2015 12:02:02 AM:finish refresh rss
+10/09/2015 12:02:11 AM:begin refresh rss
+10/09/2015 12:02:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:02:12 AM:"GET / HTTP/1.1" 200 17191
+10/09/2015 12:02:12 AM:begin refresh rss
+10/09/2015 12:02:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:02:13 AM:"GET / HTTP/1.1" 200 17191
+10/09/2015 12:02:24 AM:finish refresh rss
+10/09/2015 12:02:24 AM:finish refresh rss
+10/09/2015 12:02:34 AM:begin refresh rss
+10/09/2015 12:02:34 AM:begin refresh rss
+10/09/2015 12:02:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:02:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:02:34 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:02:35 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:02:48 AM:finish refresh rss
+10/09/2015 12:02:49 AM:finish refresh rss
+10/09/2015 12:02:58 AM:begin refresh rss
+10/09/2015 12:02:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:02:59 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:02:59 AM:begin refresh rss
+10/09/2015 12:02:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:03:01 AM:"GET / HTTP/1.1" 200 17217
+10/09/2015 12:03:12 AM:finish refresh rss
+10/09/2015 12:03:12 AM:finish refresh rss
+10/09/2015 12:03:22 AM:begin refresh rss
+10/09/2015 12:03:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:03:22 AM:begin refresh rss
+10/09/2015 12:03:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:03:22 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:03:23 AM:"GET / HTTP/1.1" 200 17217
+10/09/2015 12:03:37 AM:finish refresh rss
+10/09/2015 12:03:38 AM:finish refresh rss
+10/09/2015 12:03:47 AM:begin refresh rss
+10/09/2015 12:03:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:03:47 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:03:48 AM:begin refresh rss
+10/09/2015 12:03:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:03:48 AM:"GET / HTTP/1.1" 200 17217
+10/09/2015 12:04:01 AM:finish refresh rss
+10/09/2015 12:04:02 AM:finish refresh rss
+10/09/2015 12:04:11 AM:begin refresh rss
+10/09/2015 12:04:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:04:12 AM:begin refresh rss
+10/09/2015 12:04:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:04:13 AM:"GET / HTTP/1.1" 200 17217
+10/09/2015 12:04:13 AM:"GET / HTTP/1.1" 200 17190
+10/09/2015 12:04:31 AM:finish refresh rss
+10/09/2015 12:04:31 AM:finish refresh rss
+10/09/2015 12:04:41 AM:begin refresh rss
+10/09/2015 12:04:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:04:41 AM:begin refresh rss
+10/09/2015 12:04:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:04:42 AM:"GET / HTTP/1.1" 200 17289
+10/09/2015 12:04:47 AM:"GET / HTTP/1.1" 200 17289
+10/09/2015 12:05:01 AM:finish refresh rss
+10/09/2015 12:05:08 AM:finish refresh rss
+10/09/2015 12:05:11 AM:begin refresh rss
+10/09/2015 12:05:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:05:14 AM:"GET / HTTP/1.1" 200 17289
+10/09/2015 12:05:18 AM:begin refresh rss
+10/09/2015 12:05:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:05:18 AM:"GET / HTTP/1.1" 200 17289
+10/09/2015 12:05:40 AM:finish refresh rss
+10/09/2015 12:05:40 AM:finish refresh rss
+10/09/2015 12:05:50 AM:begin refresh rss
+10/09/2015 12:05:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:05:50 AM:begin refresh rss
+10/09/2015 12:05:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:05:51 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:05:51 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:06:11 AM:finish refresh rss
+10/09/2015 12:06:12 AM:finish refresh rss
+10/09/2015 12:06:21 AM:begin refresh rss
+10/09/2015 12:06:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:06:22 AM:begin refresh rss
+10/09/2015 12:06:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:06:22 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:06:22 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:06:55 AM:finish refresh rss
+10/09/2015 12:06:58 AM:finish refresh rss
+10/09/2015 12:07:05 AM:begin refresh rss
+10/09/2015 12:07:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:07:06 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:07:08 AM:begin refresh rss
+10/09/2015 12:07:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:07:09 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:07:30 AM:finish refresh rss
+10/09/2015 12:07:40 AM:begin refresh rss
+10/09/2015 12:07:40 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:07:40 AM:finish refresh rss
+10/09/2015 12:07:41 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:07:50 AM:begin refresh rss
+10/09/2015 12:07:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:07:50 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:08:05 AM:finish refresh rss
+10/09/2015 12:08:07 AM:finish refresh rss
+10/09/2015 12:08:15 AM:begin refresh rss
+10/09/2015 12:08:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:08:16 AM:"GET / HTTP/1.1" 200 17259
+10/09/2015 12:08:17 AM:begin refresh rss
+10/09/2015 12:08:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:08:18 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:08:38 AM:finish refresh rss
+10/09/2015 12:08:40 AM:finish refresh rss
+10/09/2015 12:08:48 AM:begin refresh rss
+10/09/2015 12:08:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:08:49 AM:"GET / HTTP/1.1" 200 17259
+10/09/2015 12:08:50 AM:begin refresh rss
+10/09/2015 12:08:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:08:51 AM:"GET / HTTP/1.1" 200 17160
+10/09/2015 12:09:13 AM:finish refresh rss
+10/09/2015 12:09:14 AM:finish refresh rss
+10/09/2015 12:09:23 AM:begin refresh rss
+10/09/2015 12:09:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:09:24 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:09:24 AM:begin refresh rss
+10/09/2015 12:09:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:09:27 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:09:47 AM:finish refresh rss
+10/09/2015 12:09:51 AM:finish refresh rss
+10/09/2015 12:09:57 AM:begin refresh rss
+10/09/2015 12:09:57 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:09:58 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:10:01 AM:begin refresh rss
+10/09/2015 12:10:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:10:02 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:10:19 AM:finish refresh rss
+10/09/2015 12:10:25 AM:finish refresh rss
+10/09/2015 12:10:29 AM:begin refresh rss
+10/09/2015 12:10:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:10:30 AM:"GET / HTTP/1.1" 200 17156
+10/09/2015 12:10:35 AM:begin refresh rss
+10/09/2015 12:10:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:10:35 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:10:56 AM:finish refresh rss
+10/09/2015 12:10:56 AM:finish refresh rss
+10/09/2015 12:11:06 AM:begin refresh rss
+10/09/2015 12:11:06 AM:begin refresh rss
+10/09/2015 12:11:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:11:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:11:07 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:11:07 AM:"GET / HTTP/1.1" 200 17139
+10/09/2015 12:11:35 AM:finish refresh rss
+10/09/2015 12:11:38 AM:finish refresh rss
+10/09/2015 12:11:45 AM:begin refresh rss
+10/09/2015 12:11:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:11:46 AM:"GET / HTTP/1.1" 200 17222
+10/09/2015 12:11:48 AM:begin refresh rss
+10/09/2015 12:11:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:11:49 AM:"GET / HTTP/1.1" 200 84438
+10/09/2015 12:12:18 AM:finish refresh rss
+10/09/2015 12:12:27 AM:finish refresh rss
+10/09/2015 12:12:28 AM:begin refresh rss
+10/09/2015 12:12:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:12:29 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:12:37 AM:begin refresh rss
+10/09/2015 12:12:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:12:38 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:12:58 AM:finish refresh rss
+10/09/2015 12:13:08 AM:begin refresh rss
+10/09/2015 12:13:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:13:09 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:13:18 AM:finish refresh rss
+10/09/2015 12:13:28 AM:begin refresh rss
+10/09/2015 12:13:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:13:28 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:13:38 AM:finish refresh rss
+10/09/2015 12:13:45 AM:finish refresh rss
+10/09/2015 12:13:48 AM:begin refresh rss
+10/09/2015 12:13:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:13:48 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:13:55 AM:begin refresh rss
+10/09/2015 12:13:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:13:56 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:14:13 AM:finish refresh rss
+10/09/2015 12:14:15 AM:finish refresh rss
+10/09/2015 12:14:23 AM:begin refresh rss
+10/09/2015 12:14:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:14:24 AM:"GET / HTTP/1.1" 200 17263
+10/09/2015 12:14:25 AM:begin refresh rss
+10/09/2015 12:14:25 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:14:26 AM:"GET / HTTP/1.1" 200 17502
+10/09/2015 12:14:59 AM:finish refresh rss
+10/09/2015 12:15:01 AM:finish refresh rss
+10/09/2015 12:15:09 AM:begin refresh rss
+10/09/2015 12:15:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:15:11 AM:"GET / HTTP/1.1" 200 17263
+10/09/2015 12:15:11 AM:begin refresh rss
+10/09/2015 12:15:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:15:12 AM:"GET / HTTP/1.1" 200 17317
+10/09/2015 12:15:42 AM:finish refresh rss
+10/09/2015 12:15:43 AM:finish refresh rss
+10/09/2015 12:15:52 AM:begin refresh rss
+10/09/2015 12:15:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:15:53 AM:"GET / HTTP/1.1" 200 17272
+10/09/2015 12:15:53 AM:begin refresh rss
+10/09/2015 12:15:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:15:54 AM:"GET / HTTP/1.1" 200 17317
+10/09/2015 12:20:45 AM:finish refresh rss
+10/09/2015 12:20:55 AM:begin refresh rss
+10/09/2015 12:20:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:20:56 AM:"GET / HTTP/1.1" 200 17304
+10/09/2015 12:21:21 AM:finish refresh rss
+10/09/2015 12:21:31 AM:begin refresh rss
+10/09/2015 12:21:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:21:32 AM:"GET / HTTP/1.1" 200 17304
+10/09/2015 12:21:55 AM:finish refresh rss
+10/09/2015 12:22:05 AM:begin refresh rss
+10/09/2015 12:22:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:22:06 AM:"GET / HTTP/1.1" 200 17304
+10/09/2015 12:22:28 AM:finish refresh rss
+10/09/2015 12:22:38 AM:begin refresh rss
+10/09/2015 12:22:38 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:22:38 AM:"GET / HTTP/1.1" 200 17564
+10/09/2015 12:23:10 AM:finish refresh rss
+10/09/2015 12:23:20 AM:begin refresh rss
+10/09/2015 12:23:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:23:20 AM:"GET / HTTP/1.1" 200 17564
+10/09/2015 12:23:44 AM:finish refresh rss
+10/09/2015 12:23:54 AM:begin refresh rss
+10/09/2015 12:23:54 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:23:55 AM:"GET / HTTP/1.1" 200 17564
+10/09/2015 12:24:18 AM:finish refresh rss
+10/09/2015 12:24:28 AM:begin refresh rss
+10/09/2015 12:24:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:24:29 AM:"GET / HTTP/1.1" 200 17564
+10/09/2015 12:24:57 AM:finish refresh rss
+10/09/2015 12:25:07 AM:begin refresh rss
+10/09/2015 12:25:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:25:08 AM:"GET / HTTP/1.1" 200 17448
+10/09/2015 12:25:27 AM:finish refresh rss
+10/09/2015 12:25:37 AM:begin refresh rss
+10/09/2015 12:25:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:25:40 AM:"GET / HTTP/1.1" 200 17452
+10/09/2015 12:25:59 AM:finish refresh rss
+10/09/2015 12:26:09 AM:begin refresh rss
+10/09/2015 12:26:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:26:10 AM:"GET / HTTP/1.1" 200 17452
+10/09/2015 12:26:31 AM:finish refresh rss
+10/09/2015 12:26:41 AM:begin refresh rss
+10/09/2015 12:26:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:26:41 AM:"GET / HTTP/1.1" 200 17452
+10/09/2015 12:26:57 AM:finish refresh rss
+10/09/2015 12:27:07 AM:begin refresh rss
+10/09/2015 12:27:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:27:11 AM:"GET / HTTP/1.1" 200 17555
+10/09/2015 12:27:33 AM:finish refresh rss
+10/09/2015 12:27:43 AM:begin refresh rss
+10/09/2015 12:27:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:27:44 AM:"GET / HTTP/1.1" 200 17555
+10/09/2015 12:27:59 AM:finish refresh rss
+10/09/2015 12:28:09 AM:begin refresh rss
+10/09/2015 12:28:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:28:09 AM:"GET / HTTP/1.1" 200 17555
+10/09/2015 12:28:26 AM:finish refresh rss
+10/09/2015 12:28:36 AM:begin refresh rss
+10/09/2015 12:28:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:28:36 AM:"GET / HTTP/1.1" 200 17555
+10/09/2015 12:28:49 AM:finish refresh rss
+10/09/2015 12:28:59 AM:begin refresh rss
+10/09/2015 12:28:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:28:59 AM:"GET / HTTP/1.1" 200 17555
+10/09/2015 12:29:12 AM:finish refresh rss
+10/09/2015 12:29:22 AM:begin refresh rss
+10/09/2015 12:29:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:29:23 AM:"GET / HTTP/1.1" 200 17367
+10/09/2015 12:29:36 AM:finish refresh rss
+10/09/2015 12:29:46 AM:begin refresh rss
+10/09/2015 12:29:46 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:29:47 AM:"GET / HTTP/1.1" 200 17367
+10/09/2015 12:30:01 AM:finish refresh rss
+10/09/2015 12:30:11 AM:begin refresh rss
+10/09/2015 12:30:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:30:12 AM:"GET / HTTP/1.1" 200 17367
+10/09/2015 12:30:28 AM:finish refresh rss
+10/09/2015 12:30:38 AM:begin refresh rss
+10/09/2015 12:30:38 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:30:39 AM:"GET / HTTP/1.1" 200 17367
+10/09/2015 12:30:52 AM:finish refresh rss
+10/09/2015 12:31:02 AM:begin refresh rss
+10/09/2015 12:31:02 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:31:02 AM:"GET / HTTP/1.1" 200 17367
+10/09/2015 12:31:19 AM:finish refresh rss
+10/09/2015 12:31:29 AM:begin refresh rss
+10/09/2015 12:31:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:31:29 AM:"GET / HTTP/1.1" 200 17461
+10/09/2015 12:31:46 AM:finish refresh rss
+10/09/2015 12:31:56 AM:begin refresh rss
+10/09/2015 12:31:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:31:57 AM:"GET / HTTP/1.1" 200 17461
+10/09/2015 12:32:17 AM:finish refresh rss
+10/09/2015 12:32:27 AM:begin refresh rss
+10/09/2015 12:32:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:32:28 AM:"GET / HTTP/1.1" 200 17461
+10/09/2015 12:33:10 AM:finish refresh rss
+10/09/2015 12:33:20 AM:begin refresh rss
+10/09/2015 12:33:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:33:22 AM:"GET / HTTP/1.1" 200 17776
+10/09/2015 12:34:03 AM:finish refresh rss
+10/09/2015 12:34:13 AM:begin refresh rss
+10/09/2015 12:34:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:34:14 AM:"GET / HTTP/1.1" 200 17755
+10/09/2015 12:35:20 AM:finish refresh rss
+10/09/2015 12:35:30 AM:begin refresh rss
+10/09/2015 12:35:30 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:35:30 AM:"GET / HTTP/1.1" 200 17755
+10/09/2015 12:37:52 AM:finish refresh rss
+10/09/2015 12:38:02 AM:begin refresh rss
+10/09/2015 12:38:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:38:03 AM:"GET / HTTP/1.1" 200 17884
+10/09/2015 12:38:23 AM:finish refresh rss
+10/09/2015 12:38:33 AM:begin refresh rss
+10/09/2015 12:38:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:38:34 AM:"GET / HTTP/1.1" 200 17884
+10/09/2015 12:38:57 AM:finish refresh rss
+10/09/2015 12:39:07 AM:begin refresh rss
+10/09/2015 12:39:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:39:07 AM:"GET / HTTP/1.1" 200 17884
+10/09/2015 12:39:22 AM:finish refresh rss
+10/09/2015 12:39:32 AM:begin refresh rss
+10/09/2015 12:39:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:39:33 AM:"GET / HTTP/1.1" 200 17884
+10/09/2015 12:40:03 AM:finish refresh rss
+10/09/2015 12:40:13 AM:begin refresh rss
+10/09/2015 12:40:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:40:14 AM:"GET / HTTP/1.1" 200 17921
+10/09/2015 12:40:41 AM:finish refresh rss
+10/09/2015 12:40:51 AM:begin refresh rss
+10/09/2015 12:40:51 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:40:52 AM:"GET / HTTP/1.1" 200 17974
+10/09/2015 12:41:23 AM:finish refresh rss
+10/09/2015 12:41:33 AM:begin refresh rss
+10/09/2015 12:41:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:41:33 AM:"GET / HTTP/1.1" 200 17974
+10/09/2015 12:42:24 AM:finish refresh rss
+10/09/2015 12:42:34 AM:begin refresh rss
+10/09/2015 12:42:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:42:35 AM:"GET / HTTP/1.1" 200 17974
+10/09/2015 12:43:12 AM:finish refresh rss
+10/09/2015 12:43:22 AM:begin refresh rss
+10/09/2015 12:43:25 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:43:25 AM:"GET / HTTP/1.1" 200 17974
+10/09/2015 12:44:07 AM:finish refresh rss
+10/09/2015 12:44:17 AM:begin refresh rss
+10/09/2015 12:44:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:44:18 AM:"GET / HTTP/1.1" 200 17864
+10/09/2015 12:44:51 AM:finish refresh rss
+10/09/2015 12:45:01 AM:begin refresh rss
+10/09/2015 12:45:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:45:02 AM:"GET / HTTP/1.1" 200 17815
+10/09/2015 12:45:22 AM:finish refresh rss
+10/09/2015 12:45:32 AM:begin refresh rss
+10/09/2015 12:45:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:45:33 AM:"GET / HTTP/1.1" 200 17816
+10/09/2015 12:45:45 AM:finish refresh rss
+10/09/2015 12:45:55 AM:begin refresh rss
+10/09/2015 12:45:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:45:56 AM:"GET / HTTP/1.1" 200 17815
+10/09/2015 12:46:13 AM:finish refresh rss
+10/09/2015 12:46:23 AM:begin refresh rss
+10/09/2015 12:46:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:46:24 AM:"GET / HTTP/1.1" 200 17815
+10/09/2015 12:46:38 AM:finish refresh rss
+10/09/2015 12:46:48 AM:begin refresh rss
+10/09/2015 12:46:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:46:49 AM:"GET / HTTP/1.1" 200 17897
+10/09/2015 12:46:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:46:50 AM:"GET /news/2015-10-08/shocking-development-boehners-chosen-successor-kevin-mccarthy-pulls-out-speaker-race HTTP/1.1" 200 20788
+10/09/2015 12:46:51 AM:http://www.zerohedge.com/news/2015-10-08/shocking-development-boehners-chosen-successor-kevin-mccarthy-pulls-out-speaker-race
+10/09/2015 12:46:51 AM:56169dfb0a01b52557a8801d
+10/09/2015 12:47:05 AM:finish refresh rss
+10/09/2015 12:47:15 AM:begin refresh rss
+10/09/2015 12:47:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:47:16 AM:"GET / HTTP/1.1" 200 17815
+10/09/2015 12:47:32 AM:finish refresh rss
+10/09/2015 12:47:42 AM:begin refresh rss
+10/09/2015 12:47:42 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:47:43 AM:"GET / HTTP/1.1" 200 17815
+10/09/2015 12:47:56 AM:finish refresh rss
+10/09/2015 12:48:06 AM:begin refresh rss
+10/09/2015 12:48:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:48:07 AM:"GET / HTTP/1.1" 200 18001
+10/09/2015 12:48:26 AM:finish refresh rss
+10/09/2015 12:48:36 AM:begin refresh rss
+10/09/2015 12:48:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:48:37 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 12:48:54 AM:finish refresh rss
+10/09/2015 12:49:04 AM:begin refresh rss
+10/09/2015 12:49:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:49:04 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 12:49:22 AM:finish refresh rss
+10/09/2015 12:49:32 AM:begin refresh rss
+10/09/2015 12:49:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:49:33 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:49:50 AM:finish refresh rss
+10/09/2015 12:50:00 AM:begin refresh rss
+10/09/2015 12:50:00 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:50:01 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:50:11 AM:finish refresh rss
+10/09/2015 12:50:21 AM:begin refresh rss
+10/09/2015 12:50:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:50:21 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:50:35 AM:finish refresh rss
+10/09/2015 12:50:45 AM:begin refresh rss
+10/09/2015 12:50:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:50:45 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:50:56 AM:finish refresh rss
+10/09/2015 12:51:06 AM:begin refresh rss
+10/09/2015 12:51:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:51:07 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:51:20 AM:finish refresh rss
+10/09/2015 12:51:30 AM:begin refresh rss
+10/09/2015 12:51:30 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:51:30 AM:"GET / HTTP/1.1" 200 18013
+10/09/2015 12:51:40 AM:finish refresh rss
+10/09/2015 12:51:50 AM:begin refresh rss
+10/09/2015 12:51:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:51:51 AM:"GET / HTTP/1.1" 200 18055
+10/09/2015 12:52:04 AM:finish refresh rss
+10/09/2015 12:52:14 AM:begin refresh rss
+10/09/2015 12:52:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:52:14 AM:"GET / HTTP/1.1" 200 18000
+10/09/2015 12:52:24 AM:finish refresh rss
+10/09/2015 12:52:34 AM:begin refresh rss
+10/09/2015 12:52:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:52:34 AM:"GET / HTTP/1.1" 200 17736
+10/09/2015 12:52:48 AM:finish refresh rss
+10/09/2015 12:52:58 AM:begin refresh rss
+10/09/2015 12:52:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:52:58 AM:"GET / HTTP/1.1" 200 17736
+10/09/2015 12:53:08 AM:finish refresh rss
+10/09/2015 12:53:18 AM:begin refresh rss
+10/09/2015 12:53:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:53:19 AM:"GET / HTTP/1.1" 200 17811
+10/09/2015 12:53:33 AM:finish refresh rss
+10/09/2015 12:53:43 AM:begin refresh rss
+10/09/2015 12:53:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:53:44 AM:"GET / HTTP/1.1" 200 17811
+10/09/2015 12:53:55 AM:finish refresh rss
+10/09/2015 12:54:05 AM:begin refresh rss
+10/09/2015 12:54:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:54:05 AM:"GET / HTTP/1.1" 200 17736
+10/09/2015 12:54:18 AM:finish refresh rss
+10/09/2015 12:54:28 AM:begin refresh rss
+10/09/2015 12:54:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:54:28 AM:"GET / HTTP/1.1" 200 17811
+10/09/2015 12:54:39 AM:finish refresh rss
+10/09/2015 12:54:49 AM:begin refresh rss
+10/09/2015 12:54:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:54:49 AM:"GET / HTTP/1.1" 200 17736
+10/09/2015 12:55:11 AM:finish refresh rss
+10/09/2015 12:55:21 AM:begin refresh rss
+10/09/2015 12:55:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:55:21 AM:"GET / HTTP/1.1" 200 86232
+10/09/2015 12:55:49 AM:finish refresh rss
+10/09/2015 12:55:59 AM:begin refresh rss
+10/09/2015 12:55:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:55:59 AM:"GET / HTTP/1.1" 200 17791
+10/09/2015 12:56:23 AM:finish refresh rss
+10/09/2015 12:56:33 AM:begin refresh rss
+10/09/2015 12:56:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:56:34 AM:"GET / HTTP/1.1" 200 86232
+10/09/2015 12:56:56 AM:finish refresh rss
+10/09/2015 12:57:06 AM:begin refresh rss
+10/09/2015 12:57:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:57:06 AM:"GET / HTTP/1.1" 200 17789
+10/09/2015 12:57:23 AM:finish refresh rss
+10/09/2015 12:57:33 AM:begin refresh rss
+10/09/2015 12:57:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:57:34 AM:"GET / HTTP/1.1" 200 17789
+10/09/2015 12:57:43 AM:finish refresh rss
+10/09/2015 12:57:53 AM:begin refresh rss
+10/09/2015 12:57:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:57:54 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 12:58:05 AM:finish refresh rss
+10/09/2015 12:58:15 AM:begin refresh rss
+10/09/2015 12:58:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:58:16 AM:"GET / HTTP/1.1" 200 17789
+10/09/2015 12:58:26 AM:finish refresh rss
+10/09/2015 12:58:36 AM:begin refresh rss
+10/09/2015 12:58:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:58:37 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 12:58:49 AM:finish refresh rss
+10/09/2015 12:58:59 AM:begin refresh rss
+10/09/2015 12:58:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:59:00 AM:"GET / HTTP/1.1" 200 17899
+10/09/2015 12:59:10 AM:finish refresh rss
+10/09/2015 12:59:20 AM:begin refresh rss
+10/09/2015 12:59:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:59:20 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 12:59:31 AM:finish refresh rss
+10/09/2015 12:59:41 AM:begin refresh rss
+10/09/2015 12:59:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 12:59:42 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 12:59:53 AM:finish refresh rss
+10/09/2015 01:00:03 AM:begin refresh rss
+10/09/2015 01:00:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:00:03 AM:"GET / HTTP/1.1" 200 17899
+10/09/2015 01:00:14 AM:finish refresh rss
+10/09/2015 01:00:24 AM:begin refresh rss
+10/09/2015 01:00:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:00:25 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 01:00:35 AM:finish refresh rss
+10/09/2015 01:00:45 AM:begin refresh rss
+10/09/2015 01:00:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:00:45 AM:"GET / HTTP/1.1" 200 18391
+10/09/2015 01:00:58 AM:finish refresh rss
+10/09/2015 01:01:08 AM:begin refresh rss
+10/09/2015 01:01:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:01:08 AM:"GET / HTTP/1.1" 200 18391
+10/09/2015 01:01:19 AM:finish refresh rss
+10/09/2015 01:01:29 AM:begin refresh rss
+10/09/2015 01:01:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:01:30 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 01:01:43 AM:finish refresh rss
+10/09/2015 01:01:53 AM:begin refresh rss
+10/09/2015 01:01:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:01:53 AM:"GET / HTTP/1.1" 200 17726
+10/09/2015 01:02:02 AM:finish refresh rss
+10/09/2015 01:02:12 AM:begin refresh rss
+10/09/2015 01:02:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:02:13 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:02:27 AM:finish refresh rss
+10/09/2015 01:02:37 AM:begin refresh rss
+10/09/2015 01:02:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:02:38 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:02:47 AM:finish refresh rss
+10/09/2015 01:02:57 AM:begin refresh rss
+10/09/2015 01:02:57 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:02:58 AM:"GET / HTTP/1.1" 200 17793
+10/09/2015 01:03:08 AM:finish refresh rss
+10/09/2015 01:03:18 AM:begin refresh rss
+10/09/2015 01:03:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:03:19 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:03:27 AM:finish refresh rss
+10/09/2015 01:03:37 AM:begin refresh rss
+10/09/2015 01:03:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:03:38 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:03:49 AM:finish refresh rss
+10/09/2015 01:03:59 AM:begin refresh rss
+10/09/2015 01:03:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:03:59 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:04:10 AM:finish refresh rss
+10/09/2015 01:04:20 AM:begin refresh rss
+10/09/2015 01:04:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:04:22 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:04:33 AM:finish refresh rss
+10/09/2015 01:04:43 AM:begin refresh rss
+10/09/2015 01:04:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:04:44 AM:"GET / HTTP/1.1" 200 17793
+10/09/2015 01:04:52 AM:finish refresh rss
+10/09/2015 01:05:02 AM:begin refresh rss
+10/09/2015 01:05:02 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:05:03 AM:"GET / HTTP/1.1" 200 17793
+10/09/2015 01:05:23 AM:finish refresh rss
+10/09/2015 01:05:33 AM:begin refresh rss
+10/09/2015 01:05:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:05:34 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:05:48 AM:finish refresh rss
+10/09/2015 01:05:58 AM:begin refresh rss
+10/09/2015 01:05:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:05:59 AM:"GET / HTTP/1.1" 200 17982
+10/09/2015 01:06:13 AM:finish refresh rss
+10/09/2015 01:06:23 AM:begin refresh rss
+10/09/2015 01:06:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:06:23 AM:"GET / HTTP/1.1" 200 17856
+10/09/2015 01:06:31 AM:finish refresh rss
+10/09/2015 01:06:41 AM:begin refresh rss
+10/09/2015 01:06:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:06:42 AM:"GET / HTTP/1.1" 200 17856
+10/09/2015 01:06:54 AM:finish refresh rss
+10/09/2015 01:07:04 AM:begin refresh rss
+10/09/2015 01:07:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:07:05 AM:"GET / HTTP/1.1" 200 17910
+10/09/2015 01:07:13 AM:finish refresh rss
+10/09/2015 01:07:23 AM:begin refresh rss
+10/09/2015 01:07:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:07:24 AM:"GET / HTTP/1.1" 200 17910
+10/09/2015 01:07:36 AM:finish refresh rss
+10/09/2015 01:07:46 AM:begin refresh rss
+10/09/2015 01:07:46 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:07:46 AM:"GET / HTTP/1.1" 200 17910
+10/09/2015 01:07:54 AM:finish refresh rss
+10/09/2015 01:08:04 AM:begin refresh rss
+10/09/2015 01:08:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:08:04 AM:"GET / HTTP/1.1" 200 17910
+10/09/2015 01:08:16 AM:finish refresh rss
+10/09/2015 01:08:26 AM:begin refresh rss
+10/09/2015 01:08:26 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:08:27 AM:"GET / HTTP/1.1" 200 17933
+10/09/2015 01:08:35 AM:finish refresh rss
+10/09/2015 01:08:45 AM:begin refresh rss
+10/09/2015 01:08:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:08:46 AM:"GET / HTTP/1.1" 200 17875
+10/09/2015 01:08:57 AM:finish refresh rss
+10/09/2015 01:09:07 AM:begin refresh rss
+10/09/2015 01:09:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:09:08 AM:"GET / HTTP/1.1" 200 17875
+10/09/2015 01:09:15 AM:finish refresh rss
+10/09/2015 01:09:25 AM:begin refresh rss
+10/09/2015 01:09:26 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:09:26 AM:"GET / HTTP/1.1" 200 17875
+10/09/2015 01:10:01 AM:finish refresh rss
+10/09/2015 01:10:11 AM:begin refresh rss
+10/09/2015 01:10:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:10:12 AM:"GET / HTTP/1.1" 200 17862
+10/09/2015 01:10:21 AM:finish refresh rss
+10/09/2015 01:10:31 AM:begin refresh rss
+10/09/2015 01:10:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:10:32 AM:"GET / HTTP/1.1" 200 17862
+10/09/2015 01:10:43 AM:finish refresh rss
+10/09/2015 01:10:53 AM:begin refresh rss
+10/09/2015 01:10:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:10:54 AM:"GET / HTTP/1.1" 200 17810
+10/09/2015 01:11:02 AM:finish refresh rss
+10/09/2015 01:11:12 AM:begin refresh rss
+10/09/2015 01:11:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:11:13 AM:"GET / HTTP/1.1" 200 17810
+10/09/2015 01:11:25 AM:finish refresh rss
+10/09/2015 01:11:35 AM:begin refresh rss
+10/09/2015 01:11:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:11:36 AM:"GET / HTTP/1.1" 200 17810
+10/09/2015 01:11:45 AM:finish refresh rss
+10/09/2015 01:11:55 AM:begin refresh rss
+10/09/2015 01:11:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:11:56 AM:"GET / HTTP/1.1" 200 85007
+10/09/2015 01:12:07 AM:finish refresh rss
+10/09/2015 01:12:17 AM:begin refresh rss
+10/09/2015 01:12:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:12:18 AM:"GET / HTTP/1.1" 200 85007
+10/09/2015 01:12:28 AM:finish refresh rss
+10/09/2015 01:12:38 AM:begin refresh rss
+10/09/2015 01:12:38 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:12:39 AM:"GET / HTTP/1.1" 200 17940
+10/09/2015 01:12:55 AM:finish refresh rss
+10/09/2015 01:13:05 AM:begin refresh rss
+10/09/2015 01:13:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:13:05 AM:"GET / HTTP/1.1" 200 18016
+10/09/2015 01:13:21 AM:finish refresh rss
+10/09/2015 01:13:31 AM:begin refresh rss
+10/09/2015 01:13:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:13:31 AM:"GET / HTTP/1.1" 200 18016
+10/09/2015 01:13:42 AM:finish refresh rss
+10/09/2015 01:13:52 AM:begin refresh rss
+10/09/2015 01:13:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:13:53 AM:"GET / HTTP/1.1" 200 18016
+10/09/2015 01:14:09 AM:finish refresh rss
+10/09/2015 01:14:19 AM:begin refresh rss
+10/09/2015 01:14:19 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:14:20 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:14:32 AM:finish refresh rss
+10/09/2015 01:14:42 AM:begin refresh rss
+10/09/2015 01:14:44 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:14:44 AM:"GET / HTTP/1.1" 200 18016
+10/09/2015 01:15:01 AM:finish refresh rss
+10/09/2015 01:15:11 AM:begin refresh rss
+10/09/2015 01:15:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:15:11 AM:"GET / HTTP/1.1" 200 17888
+10/09/2015 01:15:23 AM:finish refresh rss
+10/09/2015 01:15:33 AM:begin refresh rss
+10/09/2015 01:15:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:15:34 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:15:49 AM:finish refresh rss
+10/09/2015 01:15:59 AM:begin refresh rss
+10/09/2015 01:15:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:15:59 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:16:14 AM:finish refresh rss
+10/09/2015 01:16:24 AM:begin refresh rss
+10/09/2015 01:16:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:16:24 AM:"GET / HTTP/1.1" 200 17888
+10/09/2015 01:16:37 AM:finish refresh rss
+10/09/2015 01:16:47 AM:begin refresh rss
+10/09/2015 01:16:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:16:48 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:17:05 AM:finish refresh rss
+10/09/2015 01:17:15 AM:begin refresh rss
+10/09/2015 01:17:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:17:16 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:17:27 AM:finish refresh rss
+10/09/2015 01:17:37 AM:begin refresh rss
+10/09/2015 01:17:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:17:38 AM:"GET / HTTP/1.1" 200 86382
+10/09/2015 01:17:57 AM:finish refresh rss
+10/09/2015 01:18:07 AM:begin refresh rss
+10/09/2015 01:18:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:18:07 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:18:19 AM:finish refresh rss
+10/09/2015 01:18:29 AM:begin refresh rss
+10/09/2015 01:18:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:18:29 AM:"GET / HTTP/1.1" 200 17818
+10/09/2015 01:18:44 AM:finish refresh rss
+10/09/2015 01:18:55 AM:begin refresh rss
+10/09/2015 01:18:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:18:55 AM:"GET / HTTP/1.1" 200 17908
+10/09/2015 01:19:07 AM:finish refresh rss
+10/09/2015 01:19:17 AM:begin refresh rss
+10/09/2015 01:19:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:19:18 AM:"GET / HTTP/1.1" 200 17901
+10/09/2015 01:19:31 AM:finish refresh rss
+10/09/2015 01:19:41 AM:begin refresh rss
+10/09/2015 01:19:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:19:42 AM:"GET / HTTP/1.1" 200 17901
+10/09/2015 01:19:55 AM:finish refresh rss
+10/09/2015 01:20:05 AM:begin refresh rss
+10/09/2015 01:20:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:20:07 AM:"GET / HTTP/1.1" 200 17901
+10/09/2015 01:20:22 AM:finish refresh rss
+10/09/2015 01:20:32 AM:begin refresh rss
+10/09/2015 01:20:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:20:34 AM:"GET / HTTP/1.1" 200 17901
+10/09/2015 01:20:47 AM:finish refresh rss
+10/09/2015 01:20:57 AM:begin refresh rss
+10/09/2015 01:20:57 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:20:57 AM:"GET / HTTP/1.1" 200 17901
+10/09/2015 01:21:10 AM:finish refresh rss
+10/09/2015 01:21:20 AM:begin refresh rss
+10/09/2015 01:21:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:21:21 AM:"GET / HTTP/1.1" 200 17786
+10/09/2015 01:21:34 AM:finish refresh rss
+10/09/2015 01:21:44 AM:begin refresh rss
+10/09/2015 01:21:44 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:21:45 AM:"GET / HTTP/1.1" 200 17786
+10/09/2015 01:21:58 AM:finish refresh rss
+10/09/2015 01:22:08 AM:begin refresh rss
+10/09/2015 01:22:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:22:09 AM:"GET / HTTP/1.1" 200 85358
+10/09/2015 01:22:23 AM:finish refresh rss
+10/09/2015 01:22:33 AM:begin refresh rss
+10/09/2015 01:22:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:22:34 AM:"GET / HTTP/1.1" 200 17786
+10/09/2015 01:22:49 AM:finish refresh rss
+10/09/2015 01:22:59 AM:begin refresh rss
+10/09/2015 01:22:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:22:59 AM:"GET / HTTP/1.1" 200 17786
+10/09/2015 01:23:11 AM:finish refresh rss
+10/09/2015 01:23:21 AM:begin refresh rss
+10/09/2015 01:23:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:23:22 AM:"GET / HTTP/1.1" 200 84699
+10/09/2015 01:23:33 AM:finish refresh rss
+10/09/2015 01:23:43 AM:begin refresh rss
+10/09/2015 01:23:43 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:23:44 AM:"GET / HTTP/1.1" 200 17738
+10/09/2015 01:23:57 AM:finish refresh rss
+10/09/2015 01:24:07 AM:begin refresh rss
+10/09/2015 01:24:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:24:08 AM:"GET / HTTP/1.1" 200 17738
+10/09/2015 01:24:31 AM:finish refresh rss
+10/09/2015 01:24:41 AM:begin refresh rss
+10/09/2015 01:24:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:24:42 AM:"GET / HTTP/1.1" 200 17738
+10/09/2015 01:25:02 AM:finish refresh rss
+10/09/2015 01:25:12 AM:begin refresh rss
+10/09/2015 01:25:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:25:13 AM:"GET / HTTP/1.1" 200 17850
+10/09/2015 01:25:49 AM:finish refresh rss
+10/09/2015 01:25:59 AM:begin refresh rss
+10/09/2015 01:25:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:25:59 AM:"GET / HTTP/1.1" 200 17850
+10/09/2015 01:26:16 AM:finish refresh rss
+10/09/2015 01:26:26 AM:begin refresh rss
+10/09/2015 01:26:26 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:26:27 AM:"GET / HTTP/1.1" 200 17823
+10/09/2015 01:26:38 AM:finish refresh rss
+10/09/2015 01:26:48 AM:begin refresh rss
+10/09/2015 01:26:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:26:49 AM:"GET / HTTP/1.1" 200 17823
+10/09/2015 01:27:12 AM:finish refresh rss
+10/09/2015 01:27:22 AM:begin refresh rss
+10/09/2015 01:27:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:27:23 AM:"GET / HTTP/1.1" 200 17823
+10/09/2015 01:27:42 AM:finish refresh rss
+10/09/2015 01:27:52 AM:begin refresh rss
+10/09/2015 01:27:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:27:53 AM:"GET / HTTP/1.1" 200 17823
+10/09/2015 01:28:06 AM:finish refresh rss
+10/09/2015 01:28:16 AM:begin refresh rss
+10/09/2015 01:28:16 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:28:16 AM:"GET / HTTP/1.1" 200 17814
+10/09/2015 01:28:40 AM:finish refresh rss
+10/09/2015 01:28:50 AM:begin refresh rss
+10/09/2015 01:28:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:28:51 AM:"GET / HTTP/1.1" 200 17814
+10/09/2015 01:29:29 AM:finish refresh rss
+10/09/2015 01:29:39 AM:begin refresh rss
+10/09/2015 01:29:39 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:29:40 AM:"GET / HTTP/1.1" 200 85602
+10/09/2015 01:30:03 AM:finish refresh rss
+10/09/2015 01:30:13 AM:begin refresh rss
+10/09/2015 01:30:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:30:13 AM:"GET / HTTP/1.1" 200 17814
+10/09/2015 01:30:26 AM:finish refresh rss
+10/09/2015 01:30:36 AM:begin refresh rss
+10/09/2015 01:30:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:30:37 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:30:47 AM:finish refresh rss
+10/09/2015 01:30:57 AM:begin refresh rss
+10/09/2015 01:30:57 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:30:58 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:31:08 AM:finish refresh rss
+10/09/2015 01:31:18 AM:begin refresh rss
+10/09/2015 01:31:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:31:19 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:31:29 AM:finish refresh rss
+10/09/2015 01:31:39 AM:begin refresh rss
+10/09/2015 01:31:39 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:31:40 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:31:51 AM:finish refresh rss
+10/09/2015 01:32:01 AM:begin refresh rss
+10/09/2015 01:32:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:32:02 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:32:12 AM:finish refresh rss
+10/09/2015 01:32:22 AM:begin refresh rss
+10/09/2015 01:32:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:32:22 AM:"GET / HTTP/1.1" 200 18063
+10/09/2015 01:32:35 AM:finish refresh rss
+10/09/2015 01:32:45 AM:begin refresh rss
+10/09/2015 01:32:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:32:46 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:32:56 AM:finish refresh rss
+10/09/2015 01:33:06 AM:begin refresh rss
+10/09/2015 01:33:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:33:07 AM:"GET / HTTP/1.1" 200 17948
+10/09/2015 01:33:18 AM:finish refresh rss
+10/09/2015 01:33:28 AM:begin refresh rss
+10/09/2015 01:33:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:33:28 AM:"GET / HTTP/1.1" 200 18063
+10/09/2015 01:33:39 AM:finish refresh rss
+10/09/2015 01:33:49 AM:begin refresh rss
+10/09/2015 01:33:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:33:49 AM:"GET / HTTP/1.1" 200 17903
+10/09/2015 01:34:02 AM:finish refresh rss
+10/09/2015 01:34:12 AM:begin refresh rss
+10/09/2015 01:34:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:34:17 AM:"GET / HTTP/1.1" 200 17903
+10/09/2015 01:34:28 AM:finish refresh rss
+10/09/2015 01:34:38 AM:begin refresh rss
+10/09/2015 01:34:38 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:34:39 AM:"GET / HTTP/1.1" 200 17931
+10/09/2015 01:34:49 AM:finish refresh rss
+10/09/2015 01:34:59 AM:begin refresh rss
+10/09/2015 01:34:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:34:59 AM:"GET / HTTP/1.1" 200 17931
+10/09/2015 01:35:10 AM:finish refresh rss
+10/09/2015 01:35:20 AM:begin refresh rss
+10/09/2015 01:35:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:35:21 AM:"GET / HTTP/1.1" 200 17931
+10/09/2015 01:35:32 AM:finish refresh rss
+10/09/2015 01:35:42 AM:begin refresh rss
+10/09/2015 01:35:44 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:35:45 AM:"GET / HTTP/1.1" 200 84759
+10/09/2015 01:35:56 AM:finish refresh rss
+10/09/2015 01:36:06 AM:begin refresh rss
+10/09/2015 01:36:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:36:07 AM:"GET / HTTP/1.1" 200 17718
+10/09/2015 01:36:17 AM:finish refresh rss
+10/09/2015 01:36:27 AM:begin refresh rss
+10/09/2015 01:36:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:36:28 AM:"GET / HTTP/1.1" 200 17718
+10/09/2015 01:36:38 AM:finish refresh rss
+10/09/2015 01:36:48 AM:begin refresh rss
+10/09/2015 01:36:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:36:49 AM:"GET / HTTP/1.1" 200 17703
+10/09/2015 01:37:01 AM:finish refresh rss
+10/09/2015 01:37:11 AM:begin refresh rss
+10/09/2015 01:37:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:37:12 AM:"GET / HTTP/1.1" 200 17703
+10/09/2015 01:37:25 AM:finish refresh rss
+10/09/2015 01:37:35 AM:begin refresh rss
+10/09/2015 01:37:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:37:36 AM:"GET / HTTP/1.1" 200 17703
+10/09/2015 01:37:48 AM:finish refresh rss
+10/09/2015 01:37:58 AM:begin refresh rss
+10/09/2015 01:37:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:37:59 AM:"GET / HTTP/1.1" 200 17703
+10/09/2015 01:38:14 AM:finish refresh rss
+10/09/2015 01:38:24 AM:begin refresh rss
+10/09/2015 01:38:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:38:24 AM:"GET / HTTP/1.1" 200 17606
+10/09/2015 01:38:41 AM:finish refresh rss
+10/09/2015 01:38:51 AM:begin refresh rss
+10/09/2015 01:38:51 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:38:52 AM:"GET / HTTP/1.1" 200 17606
+10/09/2015 01:39:14 AM:finish refresh rss
+10/09/2015 01:39:24 AM:begin refresh rss
+10/09/2015 01:39:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:39:24 AM:"GET / HTTP/1.1" 200 17703
+10/09/2015 01:39:40 AM:finish refresh rss
+10/09/2015 01:39:50 AM:begin refresh rss
+10/09/2015 01:39:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:39:50 AM:"GET / HTTP/1.1" 200 17574
+10/09/2015 01:40:03 AM:finish refresh rss
+10/09/2015 01:40:13 AM:begin refresh rss
+10/09/2015 01:40:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:40:14 AM:"GET / HTTP/1.1" 200 17574
+10/09/2015 01:40:30 AM:finish refresh rss
+10/09/2015 01:40:40 AM:begin refresh rss
+10/09/2015 01:40:40 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:40:41 AM:"GET / HTTP/1.1" 200 17625
+10/09/2015 01:40:52 AM:finish refresh rss
+10/09/2015 01:41:02 AM:begin refresh rss
+10/09/2015 01:41:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:41:05 AM:"GET / HTTP/1.1" 200 17625
+10/09/2015 01:41:21 AM:finish refresh rss
+10/09/2015 01:41:31 AM:begin refresh rss
+10/09/2015 01:41:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:41:32 AM:"GET / HTTP/1.1" 200 17625
+10/09/2015 01:41:43 AM:finish refresh rss
+10/09/2015 01:41:53 AM:begin refresh rss
+10/09/2015 01:41:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:41:54 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:42:05 AM:finish refresh rss
+10/09/2015 01:42:15 AM:begin refresh rss
+10/09/2015 01:42:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:42:16 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:42:26 AM:finish refresh rss
+10/09/2015 01:42:36 AM:begin refresh rss
+10/09/2015 01:42:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:42:36 AM:"GET / HTTP/1.1" 200 17676
+10/09/2015 01:42:50 AM:finish refresh rss
+10/09/2015 01:43:00 AM:begin refresh rss
+10/09/2015 01:43:00 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:43:01 AM:"GET / HTTP/1.1" 200 17676
+10/09/2015 01:43:11 AM:finish refresh rss
+10/09/2015 01:43:21 AM:begin refresh rss
+10/09/2015 01:43:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:43:22 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:43:31 AM:finish refresh rss
+10/09/2015 01:43:41 AM:begin refresh rss
+10/09/2015 01:43:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:43:42 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:43:54 AM:finish refresh rss
+10/09/2015 01:44:04 AM:begin refresh rss
+10/09/2015 01:44:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:44:04 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:44:15 AM:finish refresh rss
+10/09/2015 01:44:25 AM:begin refresh rss
+10/09/2015 01:44:25 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:44:25 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:44:36 AM:finish refresh rss
+10/09/2015 01:44:46 AM:begin refresh rss
+10/09/2015 01:44:46 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:44:47 AM:"GET / HTTP/1.1" 200 17573
+10/09/2015 01:44:58 AM:finish refresh rss
+10/09/2015 01:45:08 AM:begin refresh rss
+10/09/2015 01:45:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:45:08 AM:"GET / HTTP/1.1" 200 18188
+10/09/2015 01:45:21 AM:finish refresh rss
+10/09/2015 01:45:31 AM:begin refresh rss
+10/09/2015 01:45:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:45:31 AM:"GET / HTTP/1.1" 200 18188
+10/09/2015 01:45:40 AM:finish refresh rss
+10/09/2015 01:45:50 AM:begin refresh rss
+10/09/2015 01:45:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:45:51 AM:"GET / HTTP/1.1" 200 17760
+10/09/2015 01:46:02 AM:finish refresh rss
+10/09/2015 01:46:12 AM:begin refresh rss
+10/09/2015 01:46:16 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:46:17 AM:"GET / HTTP/1.1" 200 17760
+10/09/2015 01:46:29 AM:finish refresh rss
+10/09/2015 01:46:39 AM:begin refresh rss
+10/09/2015 01:46:39 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:46:40 AM:"GET / HTTP/1.1" 200 17760
+10/09/2015 01:46:49 AM:finish refresh rss
+10/09/2015 01:46:59 AM:begin refresh rss
+10/09/2015 01:46:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:47:00 AM:"GET / HTTP/1.1" 200 17760
+10/09/2015 01:47:12 AM:finish refresh rss
+10/09/2015 01:47:22 AM:begin refresh rss
+10/09/2015 01:47:22 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:47:22 AM:"GET / HTTP/1.1" 200 17575
+10/09/2015 01:47:31 AM:finish refresh rss
+10/09/2015 01:47:41 AM:begin refresh rss
+10/09/2015 01:47:41 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:47:42 AM:"GET / HTTP/1.1" 200 17760
+10/09/2015 01:47:53 AM:finish refresh rss
+10/09/2015 01:48:03 AM:begin refresh rss
+10/09/2015 01:48:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:48:04 AM:"GET / HTTP/1.1" 200 17575
+10/09/2015 01:48:18 AM:finish refresh rss
+10/09/2015 01:48:28 AM:begin refresh rss
+10/09/2015 01:48:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:48:28 AM:"GET / HTTP/1.1" 200 17843
+10/09/2015 01:48:37 AM:finish refresh rss
+10/09/2015 01:48:47 AM:begin refresh rss
+10/09/2015 01:48:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:48:48 AM:"GET / HTTP/1.1" 200 17843
+10/09/2015 01:48:59 AM:finish refresh rss
+10/09/2015 01:49:09 AM:begin refresh rss
+10/09/2015 01:49:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:49:09 AM:"GET / HTTP/1.1" 200 17881
+10/09/2015 01:49:19 AM:finish refresh rss
+10/09/2015 01:49:29 AM:begin refresh rss
+10/09/2015 01:49:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:49:29 AM:"GET / HTTP/1.1" 200 17881
+10/09/2015 01:49:40 AM:finish refresh rss
+10/09/2015 01:49:50 AM:begin refresh rss
+10/09/2015 01:49:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:49:51 AM:"GET / HTTP/1.1" 200 17881
+10/09/2015 01:49:59 AM:finish refresh rss
+10/09/2015 01:50:09 AM:begin refresh rss
+10/09/2015 01:50:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:50:10 AM:"GET / HTTP/1.1" 200 17881
+10/09/2015 01:50:22 AM:finish refresh rss
+10/09/2015 01:50:32 AM:begin refresh rss
+10/09/2015 01:50:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:50:33 AM:"GET / HTTP/1.1" 200 17881
+10/09/2015 01:50:42 AM:finish refresh rss
+10/09/2015 01:50:52 AM:begin refresh rss
+10/09/2015 01:50:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:50:52 AM:"GET / HTTP/1.1" 200 17751
+10/09/2015 01:50:59 AM:finish refresh rss
+10/09/2015 01:51:09 AM:begin refresh rss
+10/09/2015 01:51:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:51:10 AM:"GET / HTTP/1.1" 200 17751
+10/09/2015 01:51:14 AM:finish refresh rss
+10/09/2015 01:51:24 AM:begin refresh rss
+10/09/2015 01:51:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:51:25 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:51:30 AM:finish refresh rss
+10/09/2015 01:51:40 AM:begin refresh rss
+10/09/2015 01:51:40 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:51:41 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:51:45 AM:finish refresh rss
+10/09/2015 01:51:55 AM:begin refresh rss
+10/09/2015 01:51:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:51:56 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:52:02 AM:finish refresh rss
+10/09/2015 01:52:12 AM:begin refresh rss
+10/09/2015 01:52:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:52:12 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:52:16 AM:finish refresh rss
+10/09/2015 01:52:26 AM:begin refresh rss
+10/09/2015 01:52:26 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:52:26 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:52:30 AM:finish refresh rss
+10/09/2015 01:52:40 AM:begin refresh rss
+10/09/2015 01:52:40 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:52:41 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:52:53 AM:finish refresh rss
+10/09/2015 01:53:03 AM:begin refresh rss
+10/09/2015 01:53:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:53:04 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:53:13 AM:finish refresh rss
+10/09/2015 01:53:23 AM:begin refresh rss
+10/09/2015 01:53:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:53:23 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:53:35 AM:finish refresh rss
+10/09/2015 01:53:45 AM:begin refresh rss
+10/09/2015 01:53:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:53:45 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:53:53 AM:finish refresh rss
+10/09/2015 01:54:03 AM:begin refresh rss
+10/09/2015 01:54:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:54:06 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:54:17 AM:finish refresh rss
+10/09/2015 01:54:27 AM:begin refresh rss
+10/09/2015 01:54:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:54:28 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:54:35 AM:finish refresh rss
+10/09/2015 01:54:45 AM:begin refresh rss
+10/09/2015 01:54:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:54:46 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:54:56 AM:finish refresh rss
+10/09/2015 01:55:06 AM:begin refresh rss
+10/09/2015 01:55:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:55:07 AM:"GET / HTTP/1.1" 200 17752
+10/09/2015 01:55:15 AM:finish refresh rss
+10/09/2015 01:55:25 AM:begin refresh rss
+10/09/2015 01:55:25 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:55:25 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:55:38 AM:finish refresh rss
+10/09/2015 01:55:48 AM:begin refresh rss
+10/09/2015 01:55:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:55:48 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:55:55 AM:finish refresh rss
+10/09/2015 01:56:05 AM:begin refresh rss
+10/09/2015 01:56:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:56:06 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:56:18 AM:finish refresh rss
+10/09/2015 01:56:28 AM:begin refresh rss
+10/09/2015 01:56:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:56:29 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:56:37 AM:finish refresh rss
+10/09/2015 01:56:47 AM:begin refresh rss
+10/09/2015 01:56:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:56:47 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:56:59 AM:finish refresh rss
+10/09/2015 01:57:09 AM:begin refresh rss
+10/09/2015 01:57:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:57:10 AM:"GET / HTTP/1.1" 200 17713
+10/09/2015 01:57:17 AM:finish refresh rss
+10/09/2015 01:57:27 AM:begin refresh rss
+10/09/2015 01:57:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:57:28 AM:"GET / HTTP/1.1" 200 17794
+10/09/2015 01:57:40 AM:finish refresh rss
+10/09/2015 01:57:50 AM:begin refresh rss
+10/09/2015 01:57:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:57:51 AM:"GET / HTTP/1.1" 200 84563
+10/09/2015 01:57:59 AM:finish refresh rss
+10/09/2015 01:58:09 AM:begin refresh rss
+10/09/2015 01:58:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:58:09 AM:"GET / HTTP/1.1" 200 84563
+10/09/2015 01:58:23 AM:finish refresh rss
+10/09/2015 01:58:33 AM:begin refresh rss
+10/09/2015 01:58:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:58:34 AM:"GET / HTTP/1.1" 200 17821
+10/09/2015 01:58:42 AM:finish refresh rss
+10/09/2015 01:58:52 AM:begin refresh rss
+10/09/2015 01:58:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:58:52 AM:"GET / HTTP/1.1" 200 17821
+10/09/2015 01:59:03 AM:finish refresh rss
+10/09/2015 01:59:13 AM:begin refresh rss
+10/09/2015 01:59:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:59:14 AM:"GET / HTTP/1.1" 200 17821
+10/09/2015 01:59:21 AM:finish refresh rss
+10/09/2015 01:59:31 AM:begin refresh rss
+10/09/2015 01:59:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 01:59:33 AM:"GET / HTTP/1.1" 200 17821
+10/09/2015 02:00:00 AM:finish refresh rss
+10/09/2015 02:00:10 AM:begin refresh rss
+10/09/2015 02:00:10 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:00:11 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:00:19 AM:finish refresh rss
+10/09/2015 02:00:29 AM:begin refresh rss
+10/09/2015 02:00:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:00:29 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:00:41 AM:finish refresh rss
+10/09/2015 02:00:51 AM:begin refresh rss
+10/09/2015 02:00:51 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:00:55 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:01:09 AM:finish refresh rss
+10/09/2015 02:01:19 AM:begin refresh rss
+10/09/2015 02:01:19 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:01:20 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:01:28 AM:finish refresh rss
+10/09/2015 02:01:38 AM:begin refresh rss
+10/09/2015 02:01:39 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:01:39 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:01:52 AM:finish refresh rss
+10/09/2015 02:02:02 AM:begin refresh rss
+10/09/2015 02:02:02 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:02:02 AM:"GET / HTTP/1.1" 200 17682
+10/09/2015 02:02:11 AM:finish refresh rss
+10/09/2015 02:02:21 AM:begin refresh rss
+10/09/2015 02:02:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:02:22 AM:"GET / HTTP/1.1" 200 17666
+10/09/2015 02:02:37 AM:finish refresh rss
+10/09/2015 02:02:47 AM:begin refresh rss
+10/09/2015 02:02:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:02:47 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:02:56 AM:finish refresh rss
+10/09/2015 02:03:06 AM:begin refresh rss
+10/09/2015 02:03:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:03:06 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:03:19 AM:finish refresh rss
+10/09/2015 02:03:29 AM:begin refresh rss
+10/09/2015 02:03:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:03:30 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:03:39 AM:finish refresh rss
+10/09/2015 02:03:49 AM:begin refresh rss
+10/09/2015 02:03:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:03:50 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:04:03 AM:finish refresh rss
+10/09/2015 02:04:13 AM:begin refresh rss
+10/09/2015 02:04:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:04:13 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:04:25 AM:finish refresh rss
+10/09/2015 02:04:35 AM:begin refresh rss
+10/09/2015 02:04:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:04:36 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:04:48 AM:finish refresh rss
+10/09/2015 02:04:58 AM:begin refresh rss
+10/09/2015 02:04:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:04:58 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:05:07 AM:finish refresh rss
+10/09/2015 02:05:17 AM:begin refresh rss
+10/09/2015 02:05:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:05:18 AM:"GET / HTTP/1.1" 200 17735
+10/09/2015 02:05:30 AM:finish refresh rss
+10/09/2015 02:05:40 AM:begin refresh rss
+10/09/2015 02:05:40 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:05:42 AM:"GET / HTTP/1.1" 200 19235
+10/09/2015 02:06:00 AM:finish refresh rss
+10/09/2015 02:06:10 AM:begin refresh rss
+10/09/2015 02:06:10 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:06:11 AM:"GET / HTTP/1.1" 200 19235
+10/09/2015 02:06:24 AM:finish refresh rss
+10/09/2015 02:06:34 AM:begin refresh rss
+10/09/2015 02:06:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:06:35 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:06:47 AM:finish refresh rss
+10/09/2015 02:06:57 AM:begin refresh rss
+10/09/2015 02:06:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:06:59 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:07:13 AM:finish refresh rss
+10/09/2015 02:07:23 AM:begin refresh rss
+10/09/2015 02:07:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:07:27 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:07:38 AM:finish refresh rss
+10/09/2015 02:07:48 AM:begin refresh rss
+10/09/2015 02:07:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:07:49 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:08:01 AM:finish refresh rss
+10/09/2015 02:08:11 AM:begin refresh rss
+10/09/2015 02:08:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:08:12 AM:"GET / HTTP/1.1" 200 18289
+10/09/2015 02:08:25 AM:finish refresh rss
+10/09/2015 02:08:35 AM:begin refresh rss
+10/09/2015 02:08:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:08:36 AM:"GET / HTTP/1.1" 200 18289
+10/09/2015 02:08:48 AM:finish refresh rss
+10/09/2015 02:08:58 AM:begin refresh rss
+10/09/2015 02:08:58 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:08:58 AM:"GET / HTTP/1.1" 200 18289
+10/09/2015 02:09:13 AM:finish refresh rss
+10/09/2015 02:09:23 AM:begin refresh rss
+10/09/2015 02:09:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:09:23 AM:"GET / HTTP/1.1" 200 18262
+10/09/2015 02:09:36 AM:finish refresh rss
+10/09/2015 02:09:46 AM:begin refresh rss
+10/09/2015 02:09:46 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:09:46 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:10:01 AM:finish refresh rss
+10/09/2015 02:10:11 AM:begin refresh rss
+10/09/2015 02:10:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:10:11 AM:"GET / HTTP/1.1" 200 18361
+10/09/2015 02:10:26 AM:finish refresh rss
+10/09/2015 02:10:36 AM:begin refresh rss
+10/09/2015 02:10:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:10:36 AM:"GET / HTTP/1.1" 200 18262
+10/09/2015 02:10:51 AM:finish refresh rss
+10/09/2015 02:11:01 AM:begin refresh rss
+10/09/2015 02:11:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:11:02 AM:"GET / HTTP/1.1" 200 18262
+10/09/2015 02:11:14 AM:finish refresh rss
+10/09/2015 02:11:24 AM:begin refresh rss
+10/09/2015 02:11:24 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:11:25 AM:"GET / HTTP/1.1" 200 18262
+10/09/2015 02:11:40 AM:finish refresh rss
+10/09/2015 02:11:50 AM:begin refresh rss
+10/09/2015 02:11:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:11:50 AM:"GET / HTTP/1.1" 200 18346
+10/09/2015 02:12:02 AM:finish refresh rss
+10/09/2015 02:12:12 AM:begin refresh rss
+10/09/2015 02:12:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:12:13 AM:"GET / HTTP/1.1" 200 18346
+10/09/2015 02:12:27 AM:finish refresh rss
+10/09/2015 02:12:37 AM:begin refresh rss
+10/09/2015 02:12:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:12:37 AM:"GET / HTTP/1.1" 200 18346
+10/09/2015 02:12:49 AM:finish refresh rss
+10/09/2015 02:12:59 AM:begin refresh rss
+10/09/2015 02:12:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:12:59 AM:"GET / HTTP/1.1" 200 18017
+10/09/2015 02:13:05 AM:finish refresh rss
+10/09/2015 02:13:15 AM:begin refresh rss
+10/09/2015 02:13:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:13:16 AM:"GET / HTTP/1.1" 200 18017
+10/09/2015 02:13:19 AM:finish refresh rss
+10/09/2015 02:13:29 AM:begin refresh rss
+10/09/2015 02:13:29 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:13:30 AM:"GET / HTTP/1.1" 200 18017
+10/09/2015 02:13:34 AM:finish refresh rss
+10/09/2015 02:13:44 AM:begin refresh rss
+10/09/2015 02:13:44 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:13:45 AM:"GET / HTTP/1.1" 200 18017
+10/09/2015 02:13:49 AM:finish refresh rss
+10/09/2015 02:13:59 AM:begin refresh rss
+10/09/2015 02:13:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:14:01 AM:"GET / HTTP/1.1" 200 18017
+10/09/2015 02:14:11 AM:finish refresh rss
+10/09/2015 02:14:21 AM:begin refresh rss
+10/09/2015 02:14:21 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:14:22 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:14:26 AM:finish refresh rss
+10/09/2015 02:14:36 AM:begin refresh rss
+10/09/2015 02:14:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:14:36 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:14:41 AM:finish refresh rss
+10/09/2015 02:14:51 AM:begin refresh rss
+10/09/2015 02:14:51 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:14:52 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:14:56 AM:finish refresh rss
+10/09/2015 02:15:06 AM:begin refresh rss
+10/09/2015 02:15:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:15:06 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:15:10 AM:finish refresh rss
+10/09/2015 02:15:20 AM:begin refresh rss
+10/09/2015 02:15:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:15:21 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:15:25 AM:finish refresh rss
+10/09/2015 02:15:35 AM:begin refresh rss
+10/09/2015 02:15:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:15:35 AM:"GET / HTTP/1.1" 200 18041
+10/09/2015 02:15:39 AM:finish refresh rss
+10/09/2015 02:15:49 AM:begin refresh rss
+10/09/2015 02:15:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:15:50 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:15:53 AM:finish refresh rss
+10/09/2015 02:16:03 AM:begin refresh rss
+10/09/2015 02:16:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:16:04 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:16:08 AM:finish refresh rss
+10/09/2015 02:16:18 AM:begin refresh rss
+10/09/2015 02:16:18 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:16:19 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:16:23 AM:finish refresh rss
+10/09/2015 02:16:33 AM:begin refresh rss
+10/09/2015 02:16:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:16:33 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:16:38 AM:finish refresh rss
+10/09/2015 02:16:48 AM:begin refresh rss
+10/09/2015 02:16:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:16:48 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:16:53 AM:finish refresh rss
+10/09/2015 02:17:03 AM:begin refresh rss
+10/09/2015 02:17:03 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:17:04 AM:"GET / HTTP/1.1" 200 18180
+10/09/2015 02:17:09 AM:finish refresh rss
+10/09/2015 02:17:19 AM:begin refresh rss
+10/09/2015 02:17:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:17:20 AM:"GET / HTTP/1.1" 200 19020
+10/09/2015 02:17:24 AM:finish refresh rss
+10/09/2015 02:17:34 AM:begin refresh rss
+10/09/2015 02:17:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:17:35 AM:"GET / HTTP/1.1" 200 19020
+10/09/2015 02:17:40 AM:finish refresh rss
+10/09/2015 02:17:50 AM:begin refresh rss
+10/09/2015 02:17:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:17:50 AM:"GET / HTTP/1.1" 200 19020
+10/09/2015 02:17:54 AM:finish refresh rss
+10/09/2015 02:18:04 AM:begin refresh rss
+10/09/2015 02:18:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:18:05 AM:"GET / HTTP/1.1" 200 19020
+10/09/2015 02:18:17 AM:finish refresh rss
+10/09/2015 02:18:27 AM:begin refresh rss
+10/09/2015 02:18:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:18:27 AM:"GET / HTTP/1.1" 200 18097
+10/09/2015 02:18:36 AM:finish refresh rss
+10/09/2015 02:18:47 AM:begin refresh rss
+10/09/2015 02:18:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:18:47 AM:"GET / HTTP/1.1" 200 18097
+10/09/2015 02:18:59 AM:finish refresh rss
+10/09/2015 02:19:09 AM:begin refresh rss
+10/09/2015 02:19:09 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:19:09 AM:"GET / HTTP/1.1" 200 18097
+10/09/2015 02:19:16 AM:finish refresh rss
+10/09/2015 02:19:26 AM:begin refresh rss
+10/09/2015 02:19:26 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:19:27 AM:"GET / HTTP/1.1" 200 18097
+10/09/2015 02:19:38 AM:finish refresh rss
+10/09/2015 02:19:48 AM:begin refresh rss
+10/09/2015 02:19:48 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:19:48 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:19:56 AM:finish refresh rss
+10/09/2015 02:20:06 AM:begin refresh rss
+10/09/2015 02:20:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:20:07 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:20:18 AM:finish refresh rss
+10/09/2015 02:20:28 AM:begin refresh rss
+10/09/2015 02:20:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:20:29 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:20:37 AM:finish refresh rss
+10/09/2015 02:20:47 AM:begin refresh rss
+10/09/2015 02:20:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:20:48 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:20:59 AM:finish refresh rss
+10/09/2015 02:21:09 AM:begin refresh rss
+10/09/2015 02:21:10 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:21:10 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:21:18 AM:finish refresh rss
+10/09/2015 02:21:28 AM:begin refresh rss
+10/09/2015 02:21:28 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:21:28 AM:"GET / HTTP/1.1" 200 18290
+10/09/2015 02:21:39 AM:finish refresh rss
+10/09/2015 02:21:49 AM:begin refresh rss
+10/09/2015 02:21:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:21:50 AM:"GET / HTTP/1.1" 200 18168
+10/09/2015 02:21:58 AM:finish refresh rss
+10/09/2015 02:22:08 AM:begin refresh rss
+10/09/2015 02:22:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:22:08 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:22:20 AM:finish refresh rss
+10/09/2015 02:22:30 AM:begin refresh rss
+10/09/2015 02:22:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:22:31 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:22:39 AM:finish refresh rss
+10/09/2015 02:22:49 AM:begin refresh rss
+10/09/2015 02:22:49 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:22:50 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:23:02 AM:finish refresh rss
+10/09/2015 02:23:12 AM:begin refresh rss
+10/09/2015 02:23:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:23:13 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:23:21 AM:finish refresh rss
+10/09/2015 02:23:31 AM:begin refresh rss
+10/09/2015 02:23:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:23:31 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:23:43 AM:finish refresh rss
+10/09/2015 02:23:53 AM:begin refresh rss
+10/09/2015 02:23:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:23:54 AM:"GET / HTTP/1.1" 200 18076
+10/09/2015 02:24:02 AM:finish refresh rss
+10/09/2015 02:24:12 AM:begin refresh rss
+10/09/2015 02:24:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:24:13 AM:"GET / HTTP/1.1" 200 18408
+10/09/2015 02:24:25 AM:finish refresh rss
+10/09/2015 02:24:35 AM:begin refresh rss
+10/09/2015 02:24:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:24:35 AM:"GET / HTTP/1.1" 200 18408
+10/09/2015 02:24:44 AM:finish refresh rss
+10/09/2015 02:24:54 AM:begin refresh rss
+10/09/2015 02:24:54 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:24:55 AM:"GET / HTTP/1.1" 200 18214
+10/09/2015 02:25:07 AM:finish refresh rss
+10/09/2015 02:25:17 AM:begin refresh rss
+10/09/2015 02:25:17 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:25:18 AM:"GET / HTTP/1.1" 200 18408
+10/09/2015 02:25:27 AM:finish refresh rss
+10/09/2015 02:25:37 AM:begin refresh rss
+10/09/2015 02:25:37 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:25:37 AM:"GET / HTTP/1.1" 200 18214
+10/09/2015 02:25:49 AM:finish refresh rss
+10/09/2015 02:25:59 AM:begin refresh rss
+10/09/2015 02:25:59 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:26:00 AM:"GET / HTTP/1.1" 200 18186
+10/09/2015 02:26:00 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:26:01 AM:"GET /news/2015-10-08/fed-admits-changes-asset-prices-influenced-rate-decision HTTP/1.1" 200 14422
+10/09/2015 02:26:01 AM:http://www.zerohedge.com/news/2015-10-08/fed-admits-changes-asset-prices-influenced-rate-decision
+10/09/2015 02:26:01 AM:5616b5390a01b52557a8801e
+10/09/2015 02:26:10 AM:finish refresh rss
+10/09/2015 02:26:20 AM:begin refresh rss
+10/09/2015 02:26:20 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:26:20 AM:"GET / HTTP/1.1" 200 18186
+10/09/2015 02:26:32 AM:finish refresh rss
+10/09/2015 02:26:42 AM:begin refresh rss
+10/09/2015 02:26:42 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:26:42 AM:"GET / HTTP/1.1" 200 18234
+10/09/2015 02:26:51 AM:finish refresh rss
+10/09/2015 02:27:01 AM:begin refresh rss
+10/09/2015 02:27:01 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:27:02 AM:"GET / HTTP/1.1" 200 18186
+10/09/2015 02:27:13 AM:finish refresh rss
+10/09/2015 02:27:23 AM:begin refresh rss
+10/09/2015 02:27:23 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:27:24 AM:"GET / HTTP/1.1" 200 18186
+10/09/2015 02:27:34 AM:finish refresh rss
+10/09/2015 02:27:44 AM:begin refresh rss
+10/09/2015 02:27:45 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:27:45 AM:"GET / HTTP/1.1" 200 18234
+10/09/2015 02:27:57 AM:finish refresh rss
+10/09/2015 02:28:07 AM:begin refresh rss
+10/09/2015 02:28:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:28:08 AM:"GET / HTTP/1.1" 200 18205
+10/09/2015 02:28:15 AM:finish refresh rss
+10/09/2015 02:28:25 AM:begin refresh rss
+10/09/2015 02:28:25 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:28:25 AM:"GET / HTTP/1.1" 200 86621
+10/09/2015 02:28:37 AM:finish refresh rss
+10/09/2015 02:28:47 AM:begin refresh rss
+10/09/2015 02:28:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:28:48 AM:"GET / HTTP/1.1" 200 86621
+10/09/2015 02:28:57 AM:finish refresh rss
+10/09/2015 02:29:07 AM:begin refresh rss
+10/09/2015 02:29:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:29:07 AM:"GET / HTTP/1.1" 200 86621
+10/09/2015 02:29:22 AM:finish refresh rss
+10/09/2015 02:29:32 AM:begin refresh rss
+10/09/2015 02:29:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:29:33 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:29:40 AM:finish refresh rss
+10/09/2015 02:29:50 AM:begin refresh rss
+10/09/2015 02:29:50 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:29:51 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:29:56 AM:finish refresh rss
+10/09/2015 02:30:06 AM:begin refresh rss
+10/09/2015 02:30:06 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:30:07 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:30:17 AM:finish refresh rss
+10/09/2015 02:30:27 AM:begin refresh rss
+10/09/2015 02:30:27 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:30:27 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:30:37 AM:finish refresh rss
+10/09/2015 02:30:47 AM:begin refresh rss
+10/09/2015 02:30:47 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:30:48 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:31:00 AM:finish refresh rss
+10/09/2015 02:31:10 AM:begin refresh rss
+10/09/2015 02:31:10 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:31:11 AM:"GET / HTTP/1.1" 200 18334
+10/09/2015 02:31:20 AM:finish refresh rss
+10/09/2015 02:31:30 AM:begin refresh rss
+10/09/2015 02:31:30 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:31:31 AM:"GET / HTTP/1.1" 200 18498
+10/09/2015 02:31:43 AM:finish refresh rss
+10/09/2015 02:31:53 AM:begin refresh rss
+10/09/2015 02:31:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:31:53 AM:"GET / HTTP/1.1" 200 18213
+10/09/2015 02:32:01 AM:finish refresh rss
+10/09/2015 02:32:11 AM:begin refresh rss
+10/09/2015 02:32:11 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:32:12 AM:"GET / HTTP/1.1" 200 18213
+10/09/2015 02:32:22 AM:finish refresh rss
+10/09/2015 02:32:32 AM:begin refresh rss
+10/09/2015 02:32:32 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:32:33 AM:"GET / HTTP/1.1" 200 18213
+10/09/2015 02:32:41 AM:finish refresh rss
+10/09/2015 02:32:51 AM:begin refresh rss
+10/09/2015 02:32:52 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:32:53 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:33:03 AM:finish refresh rss
+10/09/2015 02:33:13 AM:begin refresh rss
+10/09/2015 02:33:13 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:33:13 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:33:21 AM:finish refresh rss
+10/09/2015 02:33:31 AM:begin refresh rss
+10/09/2015 02:33:31 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:33:32 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:33:43 AM:finish refresh rss
+10/09/2015 02:33:53 AM:begin refresh rss
+10/09/2015 02:33:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:33:54 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:34:02 AM:finish refresh rss
+10/09/2015 02:34:12 AM:begin refresh rss
+10/09/2015 02:34:12 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:34:14 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:34:25 AM:finish refresh rss
+10/09/2015 02:34:35 AM:begin refresh rss
+10/09/2015 02:34:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:34:35 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:34:43 AM:finish refresh rss
+10/09/2015 02:34:53 AM:begin refresh rss
+10/09/2015 02:34:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:34:54 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:35:05 AM:finish refresh rss
+10/09/2015 02:35:15 AM:begin refresh rss
+10/09/2015 02:35:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:35:15 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:35:23 AM:finish refresh rss
+10/09/2015 02:35:33 AM:begin refresh rss
+10/09/2015 02:35:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:35:35 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:35:45 AM:finish refresh rss
+10/09/2015 02:35:55 AM:begin refresh rss
+10/09/2015 02:35:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:35:56 AM:"GET / HTTP/1.1" 200 18208
+10/09/2015 02:36:04 AM:finish refresh rss
+10/09/2015 02:36:14 AM:begin refresh rss
+10/09/2015 02:36:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:36:14 AM:"GET / HTTP/1.1" 200 85791
+10/09/2015 02:36:25 AM:finish refresh rss
+10/09/2015 02:36:35 AM:begin refresh rss
+10/09/2015 02:36:35 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:36:36 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 02:36:44 AM:finish refresh rss
+10/09/2015 02:36:54 AM:begin refresh rss
+10/09/2015 02:36:54 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:36:54 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 02:37:04 AM:finish refresh rss
+10/09/2015 02:37:14 AM:begin refresh rss
+10/09/2015 02:37:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:37:15 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 02:37:23 AM:finish refresh rss
+10/09/2015 02:37:33 AM:begin refresh rss
+10/09/2015 02:37:33 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:37:33 AM:"GET / HTTP/1.1" 200 18050
+10/09/2015 02:37:43 AM:finish refresh rss
+10/09/2015 02:37:53 AM:begin refresh rss
+10/09/2015 02:37:53 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:37:54 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:38:05 AM:finish refresh rss
+10/09/2015 02:38:15 AM:begin refresh rss
+10/09/2015 02:38:16 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:38:16 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:38:26 AM:finish refresh rss
+10/09/2015 02:38:36 AM:begin refresh rss
+10/09/2015 02:38:36 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:38:36 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:38:45 AM:finish refresh rss
+10/09/2015 02:38:55 AM:begin refresh rss
+10/09/2015 02:38:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:38:55 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:39:05 AM:finish refresh rss
+10/09/2015 02:39:15 AM:begin refresh rss
+10/09/2015 02:39:15 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:39:16 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:39:24 AM:finish refresh rss
+10/09/2015 02:39:34 AM:begin refresh rss
+10/09/2015 02:39:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:39:35 AM:"GET / HTTP/1.1" 200 18297
+10/09/2015 02:39:45 AM:finish refresh rss
+10/09/2015 02:39:55 AM:begin refresh rss
+10/09/2015 02:39:55 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:39:56 AM:"GET / HTTP/1.1" 200 18420
+10/09/2015 02:40:04 AM:finish refresh rss
+10/09/2015 02:40:14 AM:begin refresh rss
+10/09/2015 02:40:14 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:40:15 AM:"GET / HTTP/1.1" 200 18420
+10/09/2015 02:40:24 AM:finish refresh rss
+10/09/2015 02:40:34 AM:begin refresh rss
+10/09/2015 02:40:34 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 02:40:35 AM:"GET / HTTP/1.1" 200 18356
+10/09/2015 02:40:43 AM:finish refresh rss
+10/09/2015 03:50:53 AM:begin refresh rss
+10/09/2015 03:50:56 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:00 AM:"GET / HTTP/1.1" 200 17591
+10/09/2015 03:51:00 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:01 AM:"GET /news/2015-10-08/us-claims-malfunctioning-russian-cruise-missiles-hit-iran HTTP/1.1" 200 23745
+10/09/2015 03:51:02 AM:http://www.zerohedge.com/news/2015-10-08/us-claims-malfunctioning-russian-cruise-missiles-hit-iran
+10/09/2015 03:51:02 AM:5616c9260a01b52557a8801f
+10/09/2015 03:51:02 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:03 AM:"GET /news/2015-10-08/trust-me HTTP/1.1" 200 81517
+10/09/2015 03:51:04 AM:http://www.zerohedge.com/news/2015-10-08/trust-me
+10/09/2015 03:51:04 AM:5616c9280a01b52557a88020
+10/09/2015 03:51:04 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:04 AM:"GET /news/2015-10-08/hillary-clinton-reveals-her-plan-prevent-next-crash-bloomberg-op-ed HTTP/1.1" 200 25879
+10/09/2015 03:51:05 AM:http://www.zerohedge.com/news/2015-10-08/hillary-clinton-reveals-her-plan-prevent-next-crash-bloomberg-op-ed
+10/09/2015 03:51:05 AM:5616c9290a01b52557a88021
+10/09/2015 03:51:05 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:06 AM:"GET /news/2015-10-08/dow-1000-points-post-payrolls-lows HTTP/1.1" 200 107278
+10/09/2015 03:51:07 AM:http://www.zerohedge.com/news/2015-10-08/dow-1000-points-post-payrolls-lows
+10/09/2015 03:51:07 AM:5616c92b0a01b52557a88022
+10/09/2015 03:51:07 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:08 AM:"GET /news/2015-10-08/venezuela-now-most-expensive-country-world HTTP/1.1" 200 18897
+10/09/2015 03:51:08 AM:http://www.zerohedge.com/news/2015-10-08/venezuela-now-most-expensive-country-world
+10/09/2015 03:51:08 AM:5616c92c0a01b52557a88023
+10/09/2015 03:51:08 AM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 03:51:09 AM:"GET /news/2015-10-08/rate-hike-odds-tumble-post-minutes-bonds-bullion-black-gold-bid HTTP/1.1" 200 16826
+10/09/2015 03:51:09 AM:http://www.zerohedge.com/news/2015-10-08/rate-hike-odds-tumble-post-minutes-bonds-bullion-black-gold-bid
+10/09/2015 03:51:09 AM:5616c92d0a01b52557a88024
+10/09/2015 03:51:12 AM:finish refresh rss
+10/09/2015 09:37:24 PM:begin refresh rss
+10/09/2015 09:37:26 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/09/2015 11:31:44 PM: * Detected change in '/Users/atreeyang/workspace/python-rss/runserver.py', reloading

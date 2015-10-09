@@ -77,11 +77,16 @@ def readRss(urls):
 
 def refreshRss():
     while True:
-        log("begin refresh rss")
-        rssZeroHedge()
-        readRss(urls)
-        log("finish refresh rss")
-        time.sleep(10)
+        try:
+            log("begin refresh rss")
+            rssZeroHedge()
+            log("finish zeroHedge")
+            readRss(urls)
+            log("finish refresh rss")
+            time.sleep(10)
+        except Exception as e:
+            logging.exception('!!!==============Exception during LogThread.run')
+            logging.exception(e)
 
 t = threading.Thread(target=refreshRss)
 t.start()
