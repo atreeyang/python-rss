@@ -69,7 +69,6 @@ def entry_detail(id):
 @app.route('/init')
 def init():
     inited = app.config['inited']
-    log(inited)
     if (inited == 0):
         threading.Timer(5, refreshRss).start()
         app.config['inited'] = 1
