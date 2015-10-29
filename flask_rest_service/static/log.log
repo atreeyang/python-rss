@@ -2869,3 +2869,507 @@
 10/09/2015 09:37:24 PM:begin refresh rss
 10/09/2015 09:37:26 PM:Starting new HTTP connection (1): www.zerohedge.com
 10/09/2015 11:31:44 PM: * Detected change in '/Users/atreeyang/workspace/python-rss/runserver.py', reloading
+10/29/2015 09:45:19 PM:1begin refresh rss
+10/29/2015 09:45:19 PM:check the crawler 0.000704050064087
+10/29/2015 09:45:19 PM:0.000704050064087process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:19 PM: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+10/29/2015 09:45:19 PM: * Restarting with stat
+10/29/2015 09:45:19 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/29/2015 09:45:20 PM:1begin refresh rss
+10/29/2015 09:45:20 PM:check the crawler 0.000687122344971
+10/29/2015 09:45:20 PM:0.000687122344971process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:20 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/29/2015 09:45:20 PM:"GET / HTTP/1.1" 200 17230
+10/29/2015 09:45:21 PM:"GET / HTTP/1.1" 200 17163
+10/29/2015 09:45:21 PM:1finish zeroHedge
+10/29/2015 09:45:22 PM:1finish zeroHedge
+10/29/2015 09:45:24 PM:市场回音
+10/29/2015 09:45:24 PM:http://www.dailyfx.com.hk/cmarkets/20151029-2031.html
+10/29/2015 09:45:24 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:25 PM:"GET /cmarkets/20151029-2031.html HTTP/1.1" 200 13781
+10/29/2015 09:45:25 PM:563222f50a01b515040b122d
+10/29/2015 09:45:25 PM:http://www.dailyfx.com.hk/cmarkets/20151028-2030.html
+10/29/2015 09:45:25 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:26 PM:"GET /cmarkets/20151028-2030.html HTTP/1.1" 200 13112
+10/29/2015 09:45:26 PM:563222f60a01b515040b122e
+10/29/2015 09:45:26 PM:http://www.dailyfx.com.hk/cmarkets/20151027-2029.html
+10/29/2015 09:45:26 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:27 PM:"GET /cmarkets/20151027-2029.html HTTP/1.1" 200 12692
+10/29/2015 09:45:27 PM:563222f70a01b515040b122f
+10/29/2015 09:45:27 PM:http://www.dailyfx.com.hk/cmarkets/20151026-2028.html
+10/29/2015 09:45:27 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:27 PM:市场回音
+10/29/2015 09:45:28 PM:"GET /cmarkets/20151026-2028.html HTTP/1.1" 200 11515
+10/29/2015 09:45:28 PM:纽约盘后
+10/29/2015 09:45:28 PM:http://www.dailyfx.com.hk/commentary/morning-20151029-2836.html
+10/29/2015 09:45:28 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:28 PM:563222f80a01b515040b1230
+10/29/2015 09:45:28 PM:http://www.dailyfx.com.hk/cmarkets/20151023-2027.html
+10/29/2015 09:45:28 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:28 PM:"GET /commentary/morning-20151029-2836.html HTTP/1.1" 200 13208
+10/29/2015 09:45:29 PM:563222f90a01b515096c45f7
+10/29/2015 09:45:29 PM:http://www.dailyfx.com.hk/commentary/morning-20151028-2835.html
+10/29/2015 09:45:29 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:29 PM:"GET /cmarkets/20151023-2027.html HTTP/1.1" 200 13747
+10/29/2015 09:45:29 PM:563222f90a01b515040b1231
+10/29/2015 09:45:29 PM:http://www.dailyfx.com.hk/cmarkets/20151022-2026.html
+10/29/2015 09:45:29 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:29 PM:"GET /commentary/morning-20151028-2835.html HTTP/1.1" 200 12968
+10/29/2015 09:45:29 PM:563222f90a01b515096c45f8
+10/29/2015 09:45:29 PM:http://www.dailyfx.com.hk/commentary/morning-20151027-2834.html
+10/29/2015 09:45:29 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:30 PM:"GET /commentary/morning-20151027-2834.html HTTP/1.1" 200 12301
+10/29/2015 09:45:30 PM:"GET /cmarkets/20151022-2026.html HTTP/1.1" 200 14222
+10/29/2015 09:45:30 PM:563222fa0a01b515040b1232
+10/29/2015 09:45:30 PM:http://www.dailyfx.com.hk/cmarkets/20151021-2025.html
+10/29/2015 09:45:30 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:30 PM:563222fa0a01b515096c45f9
+10/29/2015 09:45:30 PM:http://www.dailyfx.com.hk/commentary/morning-20151024-2833.html
+10/29/2015 09:45:30 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:31 PM:"GET /cmarkets/20151021-2025.html HTTP/1.1" 200 13269
+10/29/2015 09:45:31 PM:"GET /commentary/morning-20151024-2833.html HTTP/1.1" 200 12606
+10/29/2015 09:45:31 PM:563222fb0a01b515096c45fa
+10/29/2015 09:45:31 PM:http://www.dailyfx.com.hk/commentary/morning-20151023-2832.html
+10/29/2015 09:45:31 PM:563222fb0a01b515040b1233
+10/29/2015 09:45:31 PM:http://www.dailyfx.com.hk/cmarkets/20151020-2024.html
+10/29/2015 09:45:31 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:31 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:32 PM:"GET /cmarkets/20151020-2024.html HTTP/1.1" 200 13035
+10/29/2015 09:45:32 PM:563222fc0a01b515040b1234
+10/29/2015 09:45:32 PM:http://www.dailyfx.com.hk/cmarkets/20151019-2023.html
+10/29/2015 09:45:32 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:32 PM:"GET /commentary/morning-20151023-2832.html HTTP/1.1" 200 13261
+10/29/2015 09:45:32 PM:563222fc0a01b515096c45fb
+10/29/2015 09:45:32 PM:http://www.dailyfx.com.hk/commentary/morning-20151022-2831.html
+10/29/2015 09:45:32 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:33 PM:"GET /cmarkets/20151019-2023.html HTTP/1.1" 200 11875
+10/29/2015 09:45:33 PM:563222fd0a01b515040b1235
+10/29/2015 09:45:33 PM:"GET /commentary/morning-20151022-2831.html HTTP/1.1" 200 12306
+10/29/2015 09:45:33 PM:563222fd0a01b515096c45fc
+10/29/2015 09:45:33 PM:http://www.dailyfx.com.hk/commentary/morning-20151021-2830.html
+10/29/2015 09:45:33 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:33 PM:纽约盘后
+10/29/2015 09:45:34 PM:"GET /commentary/morning-20151021-2830.html HTTP/1.1" 200 12420
+10/29/2015 09:45:34 PM:欧洲盘前
+10/29/2015 09:45:34 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151029-3091.html
+10/29/2015 09:45:34 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:34 PM:563222fe0a01b515096c45fd
+10/29/2015 09:45:34 PM:http://www.dailyfx.com.hk/commentary/morning-20151020-2829.html
+10/29/2015 09:45:34 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:34 PM:check the crawler 0.405441999435
+10/29/2015 09:45:34 PM:0.405441999435process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:35 PM:check the crawler 0.428336143494
+10/29/2015 09:45:35 PM:0.428336143494process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:35 PM:"GET /commentary/afternoon-20151029-3091.html HTTP/1.1" 200 13166
+10/29/2015 09:45:35 PM:"GET /commentary/morning-20151020-2829.html HTTP/1.1" 200 13075
+10/29/2015 09:45:35 PM:563222ff0a01b515096c45fe
+10/29/2015 09:45:35 PM:563222ff0a01b515040b1236
+10/29/2015 09:45:35 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151028-3090.html
+10/29/2015 09:45:35 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:36 PM:欧洲盘前
+10/29/2015 09:45:36 PM:"GET /commentary/afternoon-20151028-3090.html HTTP/1.1" 200 13662
+10/29/2015 09:45:36 PM:563223000a01b515040b1237
+10/29/2015 09:45:36 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151027-3089.html
+10/29/2015 09:45:36 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:37 PM:纽约盘前
+10/29/2015 09:45:37 PM:http://www.dailyfx.com.hk/commentary/evening-20151028-2739.html
+10/29/2015 09:45:37 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:38 PM:"GET /commentary/afternoon-20151027-3089.html HTTP/1.1" 200 12883
+10/29/2015 09:45:38 PM:563223020a01b515040b1238
+10/29/2015 09:45:38 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151026-3088.html
+10/29/2015 09:45:38 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:38 PM:"GET /commentary/evening-20151028-2739.html HTTP/1.1" 200 12992
+10/29/2015 09:45:38 PM:563223020a01b515096c45ff
+10/29/2015 09:45:38 PM:http://www.dailyfx.com.hk/commentary/evening-20151027-2738.html
+10/29/2015 09:45:38 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:39 PM:"GET /commentary/afternoon-20151026-3088.html HTTP/1.1" 200 13268
+10/29/2015 09:45:39 PM:"GET /commentary/evening-20151027-2738.html HTTP/1.1" 200 12752
+10/29/2015 09:45:39 PM:563223030a01b515096c4600
+10/29/2015 09:45:39 PM:http://www.dailyfx.com.hk/commentary/evening-20151023-2737.html
+10/29/2015 09:45:39 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:39 PM:563223030a01b515040b1239
+10/29/2015 09:45:39 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151023-3087.html
+10/29/2015 09:45:39 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:40 PM:"GET /commentary/evening-20151023-2737.html HTTP/1.1" 200 13222
+10/29/2015 09:45:40 PM:563223040a01b515096c4601
+10/29/2015 09:45:40 PM:http://www.dailyfx.com.hk/commentary/evening-20151022-2736.html
+10/29/2015 09:45:40 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:40 PM:"GET /commentary/afternoon-20151023-3087.html HTTP/1.1" 200 12402
+10/29/2015 09:45:40 PM:563223040a01b515040b123a
+10/29/2015 09:45:40 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151022-3086.html
+10/29/2015 09:45:40 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:41 PM:"GET /commentary/evening-20151022-2736.html HTTP/1.1" 200 13163
+10/29/2015 09:45:41 PM:"GET /commentary/afternoon-20151022-3086.html HTTP/1.1" 200 13167
+10/29/2015 09:45:41 PM:563223050a01b515096c4602
+10/29/2015 09:45:41 PM:http://www.dailyfx.com.hk/commentary/evening-20151021-2735.html
+10/29/2015 09:45:41 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:41 PM:563223050a01b515040b123b
+10/29/2015 09:45:41 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151021-3085.html
+10/29/2015 09:45:41 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:42 PM:"GET /commentary/evening-20151021-2735.html HTTP/1.1" 200 12818
+10/29/2015 09:45:42 PM:563223060a01b515096c4603
+10/29/2015 09:45:42 PM:http://www.dailyfx.com.hk/commentary/evening-20151020-2734.html
+10/29/2015 09:45:42 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:42 PM:"GET /commentary/afternoon-20151021-3085.html HTTP/1.1" 200 13191
+10/29/2015 09:45:42 PM:563223060a01b515040b123c
+10/29/2015 09:45:42 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151020-3084.html
+10/29/2015 09:45:42 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:42 PM:"GET /commentary/evening-20151020-2734.html HTTP/1.1" 200 12857
+10/29/2015 09:45:42 PM:563223060a01b515096c4604
+10/29/2015 09:45:43 PM:"GET /commentary/afternoon-20151020-3084.html HTTP/1.1" 200 12857
+10/29/2015 09:45:43 PM:563223070a01b515040b123d
+10/29/2015 09:45:43 PM:http://www.dailyfx.com.hk/commentary/afternoon-20151019-3083.html
+10/29/2015 09:45:43 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:43 PM:美元指数
+10/29/2015 09:45:43 PM:http://www.dailyfx.com.hk/us_dollar_index/20151028-832.html
+10/29/2015 09:45:43 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:43 PM:"GET /commentary/afternoon-20151019-3083.html HTTP/1.1" 200 12673
+10/29/2015 09:45:43 PM:563223070a01b515040b123e
+10/29/2015 09:45:44 PM:"GET /us_dollar_index/20151028-832.html HTTP/1.1" 200 12459
+10/29/2015 09:45:44 PM:563223080a01b515096c4605
+10/29/2015 09:45:44 PM:http://www.dailyfx.com.hk/us_dollar_index/20151027-831.html
+10/29/2015 09:45:44 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:44 PM:纽约盘前
+10/29/2015 09:45:45 PM:美元指数
+10/29/2015 09:45:45 PM:"GET /us_dollar_index/20151027-831.html HTTP/1.1" 200 12196
+10/29/2015 09:45:45 PM:563223090a01b515096c4606
+10/29/2015 09:45:45 PM:http://www.dailyfx.com.hk/us_dollar_index/20151023-830.html
+10/29/2015 09:45:45 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:45 PM:"GET /us_dollar_index/20151023-830.html HTTP/1.1" 200 12009
+10/29/2015 09:45:46 PM:5632230a0a01b515096c4607
+10/29/2015 09:45:46 PM:http://www.dailyfx.com.hk/us_dollar_index/20151022-829.html
+10/29/2015 09:45:46 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:46 PM:美元指数技术分析
+10/29/2015 09:45:46 PM:http://www.dailyfx.com.hk/us_dollar_index_techs/20151029-552.html
+10/29/2015 09:45:46 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:47 PM:"GET /us_dollar_index/20151022-829.html HTTP/1.1" 200 12190
+10/29/2015 09:45:47 PM:5632230b0a01b515096c4608
+10/29/2015 09:45:47 PM:http://www.dailyfx.com.hk/us_dollar_index/20151021-828.html
+10/29/2015 09:45:47 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:47 PM:"GET /us_dollar_index_techs/20151029-552.html HTTP/1.1" 200 10908
+10/29/2015 09:45:47 PM:5632230b0a01b515040b123f
+10/29/2015 09:45:47 PM:http://www.dailyfx.com.hk/us_dollar_index_techs/20151021-551.html
+10/29/2015 09:45:47 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:47 PM:"GET /us_dollar_index/20151021-828.html HTTP/1.1" 200 12158
+10/29/2015 09:45:48 PM:5632230c0a01b515096c4609
+10/29/2015 09:45:48 PM:http://www.dailyfx.com.hk/us_dollar_index/20151020-827.html
+10/29/2015 09:45:48 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:48 PM:"GET /us_dollar_index_techs/20151021-551.html HTTP/1.1" 200 10947
+10/29/2015 09:45:48 PM:5632230c0a01b515040b1240
+10/29/2015 09:45:49 PM:"GET /us_dollar_index/20151020-827.html HTTP/1.1" 200 11972
+10/29/2015 09:45:49 PM:5632230d0a01b515096c460a
+10/29/2015 09:45:49 PM:外汇名家
+10/29/2015 09:45:49 PM:http://www.dailyfx.com.hk/analysts/cjq/20151029-582.html
+10/29/2015 09:45:49 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:49 PM:美元指数技术分析
+10/29/2015 09:45:49 PM:check the crawler 0.664780855179
+10/29/2015 09:45:49 PM:0.664780855179process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:49 PM:"GET /analysts/cjq/20151029-582.html HTTP/1.1" 200 12839
+10/29/2015 09:45:50 PM:5632230e0a01b515040b1241
+10/29/2015 09:45:50 PM:http://www.dailyfx.com.hk/analysts/zgt/20151028-581.html
+10/29/2015 09:45:50 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:50 PM:外汇名家
+10/29/2015 09:45:50 PM:check the crawler 0.0192160606384
+10/29/2015 09:45:50 PM:0.0192160606384process:[<Process(Process-1:1, started)>]
+10/29/2015 09:45:50 PM:"GET /analysts/zgt/20151028-581.html HTTP/1.1" 200 12242
+10/29/2015 09:45:50 PM:5632230e0a01b515040b1242
+10/29/2015 09:45:50 PM:http://www.dailyfx.com.hk/analysts/cjq/20151027-580.html
+10/29/2015 09:45:50 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:50 PM:技术分析
+10/29/2015 09:45:51 PM:"GET /analysts/cjq/20151027-580.html HTTP/1.1" 200 12789
+10/29/2015 09:45:51 PM:5632230f0a01b515040b1243
+10/29/2015 09:45:51 PM:http://www.dailyfx.com.hk/analysts/zgt/20151026-579.html
+10/29/2015 09:45:51 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:51 PM:直盘分析
+10/29/2015 09:45:51 PM:http://www.dailyfx.com.hk/charts/20151019-2096.html
+10/29/2015 09:45:51 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:52 PM:"GET /analysts/zgt/20151026-579.html HTTP/1.1" 200 12220
+10/29/2015 09:45:52 PM:"GET /charts/20151019-2096.html HTTP/1.1" 200 13651
+10/29/2015 09:45:52 PM:563223100a01b515040b1244
+10/29/2015 09:45:52 PM:http://www.dailyfx.com.hk/analysts/cjq/20151026-578.html
+10/29/2015 09:45:52 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:53 PM:563223110a01b515096c460b
+10/29/2015 09:45:53 PM:"GET /analysts/cjq/20151026-578.html HTTP/1.1" 200 12592
+10/29/2015 09:45:54 PM:563223120a01b515040b1245
+10/29/2015 09:45:54 PM:http://www.dailyfx.com.hk/analysts/yzm/20151023-577.html
+10/29/2015 09:45:54 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:54 PM:今日看盘
+10/29/2015 09:45:54 PM:http://www.dailyfx.com.hk/intraday_techs/20151029-875.html
+10/29/2015 09:45:54 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:54 PM:"GET /analysts/yzm/20151023-577.html HTTP/1.1" 200 11930
+10/29/2015 09:45:54 PM:563223120a01b515040b1246
+10/29/2015 09:45:54 PM:http://www.dailyfx.com.hk/analysts/fst/20151023-575.html
+10/29/2015 09:45:54 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:55 PM:"GET /analysts/fst/20151023-575.html HTTP/1.1" 200 11585
+10/29/2015 09:45:55 PM:563223130a01b515040b1247
+10/29/2015 09:45:55 PM:http://www.dailyfx.com.hk/analysts/cjq/20151023-574.html
+10/29/2015 09:45:55 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:55 PM:"GET /intraday_techs/20151029-875.html HTTP/1.1" 200 12749
+10/29/2015 09:45:55 PM:563223130a01b515096c460c
+10/29/2015 09:45:55 PM:http://www.dailyfx.com.hk/intraday_techs/20151028-874.html
+10/29/2015 09:45:55 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:56 PM:"GET /intraday_techs/20151028-874.html HTTP/1.1" 200 11370
+10/29/2015 09:45:56 PM:563223140a01b515096c460d
+10/29/2015 09:45:56 PM:http://www.dailyfx.com.hk/intraday_techs/20151028-873.html
+10/29/2015 09:45:56 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:57 PM:"GET /intraday_techs/20151028-873.html HTTP/1.1" 200 11658
+10/29/2015 09:45:57 PM:563223150a01b515096c460e
+10/29/2015 09:45:57 PM:http://www.dailyfx.com.hk/intraday_techs/20151027-872.html
+10/29/2015 09:45:57 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:58 PM:"GET /analysts/cjq/20151023-574.html HTTP/1.1" 200 12888
+10/29/2015 09:45:58 PM:563223160a01b515040b1248
+10/29/2015 09:45:58 PM:http://www.dailyfx.com.hk/analysts/cjq/20151022-573.html
+10/29/2015 09:45:58 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:58 PM:"GET /intraday_techs/20151027-872.html HTTP/1.1" 200 11573
+10/29/2015 09:45:58 PM:563223160a01b515096c460f
+10/29/2015 09:45:58 PM:http://www.dailyfx.com.hk/intraday_techs/20151027-871.html
+10/29/2015 09:45:58 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:58 PM:"GET /analysts/cjq/20151022-573.html HTTP/1.1" 200 12962
+10/29/2015 09:45:58 PM:563223160a01b515040b1249
+10/29/2015 09:45:58 PM:http://www.dailyfx.com.hk/analysts/zgt/20151021-572.html
+10/29/2015 09:45:58 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:59 PM:"GET /intraday_techs/20151027-871.html HTTP/1.1" 200 12837
+10/29/2015 09:45:59 PM:563223170a01b515096c4610
+10/29/2015 09:45:59 PM:http://www.dailyfx.com.hk/intraday_techs/20151023-869.html
+10/29/2015 09:45:59 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:45:59 PM:"GET /analysts/zgt/20151021-572.html HTTP/1.1" 200 12329
+10/29/2015 09:45:59 PM:563223170a01b515040b124a
+10/29/2015 09:45:59 PM:http://www.dailyfx.com.hk/analysts/cjq/20151020-571.html
+10/29/2015 09:45:59 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:00 PM:"GET /intraday_techs/20151023-869.html HTTP/1.1" 200 12544
+10/29/2015 09:46:00 PM:563223180a01b515096c4611
+10/29/2015 09:46:00 PM:http://www.dailyfx.com.hk/intraday_techs/20151022-868.html
+10/29/2015 09:46:00 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:00 PM:"GET /analysts/cjq/20151020-571.html HTTP/1.1" 200 12737
+10/29/2015 09:46:00 PM:563223180a01b515040b124b
+10/29/2015 09:46:00 PM:http://www.dailyfx.com.hk/analysts/zgt/20151019-570.html
+10/29/2015 09:46:00 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:01 PM:"GET /intraday_techs/20151022-868.html HTTP/1.1" 200 11718
+10/29/2015 09:46:01 PM:563223190a01b515096c4612
+10/29/2015 09:46:01 PM:http://www.dailyfx.com.hk/intraday_techs/20151020-867.html
+10/29/2015 09:46:01 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:01 PM:"GET /analysts/zgt/20151019-570.html HTTP/1.1" 200 12420
+10/29/2015 09:46:01 PM:563223190a01b515040b124c
+10/29/2015 09:46:01 PM:http://www.dailyfx.com.hk/analysts/cjq/20151019-569.html
+10/29/2015 09:46:01 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:01 PM:"GET /intraday_techs/20151020-867.html HTTP/1.1" 200 10999
+10/29/2015 09:46:01 PM:563223190a01b515096c4613
+10/29/2015 09:46:01 PM:http://www.dailyfx.com.hk/intraday_techs/20151020-866.html
+10/29/2015 09:46:01 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:02 PM:"GET /analysts/cjq/20151019-569.html HTTP/1.1" 200 12654
+10/29/2015 09:46:02 PM:5632231a0a01b515040b124d
+10/29/2015 09:46:02 PM:"GET /intraday_techs/20151020-866.html HTTP/1.1" 200 10999
+10/29/2015 09:46:02 PM:5632231a0a01b515096c4614
+10/29/2015 09:46:02 PM:http://www.dailyfx.com.hk/intraday_techs/20151019-865.html
+10/29/2015 09:46:02 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:02 PM: * Detected change in '/Users/atreeyang/workspace/python-rss/runserver.py', reloading
+10/29/2015 09:46:02 PM:技术分析
+10/29/2015 09:46:03 PM:直盘分析
+10/29/2015 09:46:03 PM:"GET /intraday_techs/20151019-865.html HTTP/1.1" 200 11000
+10/29/2015 09:46:03 PM:5632231b0a01b515096c4615
+10/29/2015 09:46:03 PM:今日看盘
+10/29/2015 09:46:03 PM:牛熊榜
+10/29/2015 09:46:03 PM:http://www.dailyfx.com.hk/winners_and_losers/20151028-682.html
+10/29/2015 09:46:03 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:04 PM:牛熊榜
+10/29/2015 09:46:04 PM:http://www.dailyfx.com.hk/winners_and_losers/20151028-682.html
+10/29/2015 09:46:04 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:04 PM:"GET /winners_and_losers/20151028-682.html HTTP/1.1" 200 11450
+10/29/2015 09:46:04 PM:5632231c0a01b515096c4616
+10/29/2015 09:46:04 PM:http://www.dailyfx.com.hk/winners_and_losers/20151023-681.html
+10/29/2015 09:46:04 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:04 PM:"GET /winners_and_losers/20151028-682.html HTTP/1.1" 200 11450
+10/29/2015 09:46:04 PM:5632231c0a01b515040b124e
+10/29/2015 09:46:04 PM:http://www.dailyfx.com.hk/winners_and_losers/20151023-681.html
+10/29/2015 09:46:04 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:04 PM:check the crawler 0.0951550006866
+10/29/2015 09:46:04 PM:0.0951550006866process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:07 PM:1begin refresh rss
+10/29/2015 09:46:07 PM:check the crawler 0.000537872314453
+10/29/2015 09:46:07 PM: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+10/29/2015 09:46:07 PM:0.000537872314453process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:07 PM: * Restarting with stat
+10/29/2015 09:46:07 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/29/2015 09:46:07 PM:check the crawler 8.10623168945e-05
+10/29/2015 09:46:07 PM:1begin refresh rss
+10/29/2015 09:46:07 PM:8.10623168945e-05process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:07 PM:Starting new HTTP connection (1): www.zerohedge.com
+10/29/2015 09:46:08 PM:"GET / HTTP/1.1" 200 17272
+10/29/2015 09:46:08 PM:"GET / HTTP/1.1" 200 17272
+10/29/2015 09:46:09 PM:1finish zeroHedge
+10/29/2015 09:46:10 PM:1finish zeroHedge
+10/29/2015 09:46:11 PM:市场回音
+10/29/2015 09:46:11 PM:市场回音
+10/29/2015 09:46:12 PM:纽约盘后
+10/29/2015 09:46:12 PM:纽约盘后
+10/29/2015 09:46:13 PM:欧洲盘前
+10/29/2015 09:46:13 PM:欧洲盘前
+10/29/2015 09:46:13 PM:纽约盘前
+10/29/2015 09:46:14 PM:纽约盘前
+10/29/2015 09:46:15 PM:美元指数
+10/29/2015 09:46:15 PM:美元指数
+10/29/2015 09:46:15 PM:美元指数技术分析
+10/29/2015 09:46:16 PM:美元指数技术分析
+10/29/2015 09:46:16 PM:外汇名家
+10/29/2015 09:46:16 PM:外汇名家
+10/29/2015 09:46:17 PM:技术分析
+10/29/2015 09:46:17 PM:技术分析
+10/29/2015 09:46:17 PM:直盘分析
+10/29/2015 09:46:18 PM:今日看盘
+10/29/2015 09:46:19 PM:牛熊榜
+10/29/2015 09:46:19 PM:直盘分析
+10/29/2015 09:46:19 PM:专题探讨
+10/29/2015 09:46:19 PM:http://www.dailyfx.com.hk/feaarticle/20151029-5801.html
+10/29/2015 09:46:19 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:20 PM:"GET /feaarticle/20151029-5801.html HTTP/1.1" 200 12320
+10/29/2015 09:46:20 PM:5632232c0a01b515572e3c42
+10/29/2015 09:46:20 PM:http://www.dailyfx.com.hk/feaarticle/20151028-5800.html
+10/29/2015 09:46:20 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:20 PM:今日看盘
+10/29/2015 09:46:21 PM:牛熊榜
+10/29/2015 09:46:21 PM:"GET /feaarticle/20151028-5800.html HTTP/1.1" 200 11945
+10/29/2015 09:46:21 PM:5632232d0a01b515572e3c43
+10/29/2015 09:46:21 PM:http://www.dailyfx.com.hk/feaarticle/20151028-5799.html
+10/29/2015 09:46:21 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:22 PM:专题探讨
+10/29/2015 09:46:22 PM:check the crawler 0.909869909286
+10/29/2015 09:46:22 PM:0.909869909286process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:22 PM:check the crawler 0.529723882675
+10/29/2015 09:46:22 PM:0.529723882675process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:22 PM:期货变化
+10/29/2015 09:46:22 PM:http://www.dailyfx.com.hk/cotreport/20151026-2445.html
+10/29/2015 09:46:22 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:22 PM:"GET /feaarticle/20151028-5799.html HTTP/1.1" 200 12054
+10/29/2015 09:46:23 PM:5632232f0a01b515572e3c44
+10/29/2015 09:46:23 PM:http://www.dailyfx.com.hk/feaarticle/20151027-5798.html
+10/29/2015 09:46:23 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:23 PM:"GET /cotreport/20151026-2445.html HTTP/1.1" 200 13293
+10/29/2015 09:46:23 PM:5632232f0a01b51563bbbba8
+10/29/2015 09:46:23 PM:http://www.dailyfx.com.hk/cotreport/20151019-2444.html
+10/29/2015 09:46:23 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:23 PM:"GET /feaarticle/20151027-5798.html HTTP/1.1" 200 11747
+10/29/2015 09:46:24 PM:563223300a01b515572e3c45
+10/29/2015 09:46:24 PM:http://www.dailyfx.com.hk/feaarticle/20151027-5797.html
+10/29/2015 09:46:24 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:24 PM:"GET /cotreport/20151019-2444.html HTTP/1.1" 200 13003
+10/29/2015 09:46:24 PM:563223300a01b51563bbbba9
+10/29/2015 09:46:25 PM:"GET /feaarticle/20151027-5797.html HTTP/1.1" 200 12535
+10/29/2015 09:46:25 PM:投机情绪指数
+10/29/2015 09:46:25 PM:http://www.dailyfx.com.hk/fxcmssi/20151023-496.html
+10/29/2015 09:46:25 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:25 PM:563223310a01b515572e3c46
+10/29/2015 09:46:25 PM:http://www.dailyfx.com.hk/feaarticle/20151027-5796.html
+10/29/2015 09:46:25 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:26 PM:"GET /fxcmssi/20151023-496.html HTTP/1.1" 200 13128
+10/29/2015 09:46:26 PM:563223320a01b51563bbbbaa
+10/29/2015 09:46:26 PM:"GET /feaarticle/20151027-5796.html HTTP/1.1" 200 11630
+10/29/2015 09:46:26 PM:563223320a01b515572e3c47
+10/29/2015 09:46:26 PM:http://www.dailyfx.com.hk/feaarticle/20151027-5795.html
+10/29/2015 09:46:26 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:26 PM:"GET /feaarticle/20151027-5795.html HTTP/1.1" 200 12052
+10/29/2015 09:46:26 PM:每周基本分析展望
+10/29/2015 09:46:26 PM:http://www.dailyfx.com.hk/outlook/20151026-2952.html
+10/29/2015 09:46:26 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:27 PM:563223330a01b515572e3c48
+10/29/2015 09:46:27 PM:http://www.dailyfx.com.hk/feaarticle/20151026-5794.html
+10/29/2015 09:46:27 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:27 PM:"GET /outlook/20151026-2952.html HTTP/1.1" 200 18510
+10/29/2015 09:46:27 PM:563223330a01b51563bbbbab
+10/29/2015 09:46:27 PM:http://www.dailyfx.com.hk/outlook/20151019-2947.html
+10/29/2015 09:46:27 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:28 PM:"GET /feaarticle/20151026-5794.html HTTP/1.1" 200 16032
+10/29/2015 09:46:28 PM:563223340a01b515572e3c49
+10/29/2015 09:46:28 PM:http://www.dailyfx.com.hk/feaarticle/20151023-5793.html
+10/29/2015 09:46:28 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:28 PM:"GET /outlook/20151019-2947.html HTTP/1.1" 200 16327
+10/29/2015 09:46:29 PM:563223350a01b51563bbbbac
+10/29/2015 09:46:29 PM:"GET /feaarticle/20151023-5793.html HTTP/1.1" 200 12528
+10/29/2015 09:46:29 PM:563223350a01b515572e3c4a
+10/29/2015 09:46:29 PM:http://www.dailyfx.com.hk/feaarticle/20151023-5792.html
+10/29/2015 09:46:29 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:29 PM:每周交易策略
+10/29/2015 09:46:29 PM:http://www.dailyfx.com.hk/weekly_strategy/20151028-97.html
+10/29/2015 09:46:29 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:30 PM:"GET /feaarticle/20151023-5792.html HTTP/1.1" 200 13025
+10/29/2015 09:46:30 PM:563223360a01b515572e3c4b
+10/29/2015 09:46:30 PM:http://www.dailyfx.com.hk/feaarticle/20151023-5791.html
+10/29/2015 09:46:30 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:30 PM:"GET /weekly_strategy/20151028-97.html HTTP/1.1" 200 13941
+10/29/2015 09:46:30 PM:"GET /feaarticle/20151023-5791.html HTTP/1.1" 200 11780
+10/29/2015 09:46:30 PM:563223360a01b515572e3c4c
+10/29/2015 09:46:30 PM:http://www.dailyfx.com.hk/feaarticle/20151023-5790.html
+10/29/2015 09:46:30 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:31 PM:"GET /feaarticle/20151023-5790.html HTTP/1.1" 200 12076
+10/29/2015 09:46:31 PM:563223370a01b515572e3c4d
+10/29/2015 09:46:31 PM:http://www.dailyfx.com.hk/feaarticle/20151022-5789.html
+10/29/2015 09:46:31 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:31 PM:563223370a01b51563bbbbad
+10/29/2015 09:46:32 PM:"GET /feaarticle/20151022-5789.html HTTP/1.1" 200 12343
+10/29/2015 09:46:32 PM:563223380a01b515572e3c4e
+10/29/2015 09:46:32 PM:http://www.dailyfx.com.hk/feaarticle/20151022-5788.html
+10/29/2015 09:46:32 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:32 PM:金属产品
+10/29/2015 09:46:32 PM:http://www.dailyfx.com.hk/metal/20151029-1294.html
+10/29/2015 09:46:32 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:33 PM:"GET /feaarticle/20151022-5788.html HTTP/1.1" 200 11984
+10/29/2015 09:46:33 PM:"GET /metal/20151029-1294.html HTTP/1.1" 200 11839
+10/29/2015 09:46:33 PM:563223390a01b51563bbbbae
+10/29/2015 09:46:33 PM:http://www.dailyfx.com.hk/metal/20151028-1293.html
+10/29/2015 09:46:33 PM:563223390a01b515572e3c4f
+10/29/2015 09:46:33 PM:http://www.dailyfx.com.hk/feaarticle/20151022-5787.html
+10/29/2015 09:46:33 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:33 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:34 PM:"GET /metal/20151028-1293.html HTTP/1.1" 200 12760
+10/29/2015 09:46:34 PM:5632233a0a01b51563bbbbaf
+10/29/2015 09:46:34 PM:http://www.dailyfx.com.hk/metal/20151028-1292.html
+10/29/2015 09:46:34 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:34 PM:"GET /feaarticle/20151022-5787.html HTTP/1.1" 200 12512
+10/29/2015 09:46:34 PM:5632233a0a01b515572e3c50
+10/29/2015 09:46:34 PM:http://www.dailyfx.com.hk/feaarticle/20151021-5786.html
+10/29/2015 09:46:34 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:35 PM:"GET /metal/20151028-1292.html HTTP/1.1" 200 11812
+10/29/2015 09:46:35 PM:5632233b0a01b51563bbbbb0
+10/29/2015 09:46:35 PM:http://www.dailyfx.com.hk/metal/20151027-1291.html
+10/29/2015 09:46:35 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:36 PM:"GET /metal/20151027-1291.html HTTP/1.1" 200 12688
+10/29/2015 09:46:36 PM:5632233c0a01b51563bbbbb1
+10/29/2015 09:46:36 PM:http://www.dailyfx.com.hk/metal/20151026-1290.html
+10/29/2015 09:46:36 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:36 PM:"GET /feaarticle/20151021-5786.html HTTP/1.1" 200 11731
+10/29/2015 09:46:37 PM:check the crawler 2.42972612381
+10/29/2015 09:46:37 PM:2.42972612381process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:37 PM:"GET /metal/20151026-1290.html HTTP/1.1" 200 12682
+10/29/2015 09:46:37 PM:check the crawler 1.27772593498
+10/29/2015 09:46:37 PM:1.27772593498process:[<Process(Process-1:1, started)>]
+10/29/2015 09:46:38 PM:5632233e0a01b51563bbbbb2
+10/29/2015 09:46:38 PM:http://www.dailyfx.com.hk/metal/20151023-1289.html
+10/29/2015 09:46:38 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:38 PM:"GET /metal/20151023-1289.html HTTP/1.1" 200 12254
+10/29/2015 09:46:38 PM:5632233e0a01b51563bbbbb3
+10/29/2015 09:46:38 PM:http://www.dailyfx.com.hk/metal/20151022-1288.html
+10/29/2015 09:46:38 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:39 PM:"GET /metal/20151022-1288.html HTTP/1.1" 200 12085
+10/29/2015 09:46:39 PM:5632233f0a01b51563bbbbb4
+10/29/2015 09:46:39 PM:http://www.dailyfx.com.hk/metal/20151021-1286.html
+10/29/2015 09:46:39 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:40 PM:"GET /metal/20151021-1286.html HTTP/1.1" 200 12205
+10/29/2015 09:46:40 PM:563223400a01b51563bbbbb5
+10/29/2015 09:46:40 PM:http://www.dailyfx.com.hk/metal/20151021-1285.html
+10/29/2015 09:46:40 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:40 PM:"GET /metal/20151021-1285.html HTTP/1.1" 200 11262
+10/29/2015 09:46:40 PM:563223400a01b51563bbbbb6
+10/29/2015 09:46:40 PM:http://www.dailyfx.com.hk/metal/20151020-1284.html
+10/29/2015 09:46:40 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:41 PM:"GET /metal/20151020-1284.html HTTP/1.1" 200 12242
+10/29/2015 09:46:42 PM:563223420a01b51563bbbbb7
+10/29/2015 09:46:42 PM:http://www.dailyfx.com.hk/metal/20151019-1283.html
+10/29/2015 09:46:42 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:43 PM:"GET /metal/20151019-1283.html HTTP/1.1" 200 12394
+10/29/2015 09:46:43 PM:563223430a01b51563bbbbb8
+10/29/2015 09:46:44 PM:股市原油
+10/29/2015 09:46:46 PM:机构报告
+10/29/2015 09:46:46 PM:http://www.dailyfx.com.hk/institution/20151022-348.html
+10/29/2015 09:46:46 PM:Starting new HTTP connection (1): www.dailyfx.com.hk
+10/29/2015 09:46:46 PM:"GET /institution/20151022-348.html HTTP/1.1" 200 10744
+10/29/2015 09:46:46 PM:563223460a01b51563bbbbb9
+10/29/2015 09:46:46 PM:1finish refresh rss

@@ -10,7 +10,6 @@ from flask.ext import restful
 from flask.ext.restful import reqparse
 from flask_rest_service import app, api, mongo
 from bson.objectid import ObjectId
-from flask import Flask, render_template
 from pymongo import MongoClient
 import feedparser
 from time import mktime, strftime
@@ -21,6 +20,13 @@ import threading
 import sys
 import requests
 import logging
+import threading
+
+MONGO_URL = os.environ.get('MONGO_URL')
+if not MONGO_URL:
+    MONGO_URL = "mongodb://localhost:27017/rss"
+    #MONGO_URL = "mongodb://rssuser:pwd123@mongo-atreeyang.myalauda.cn:10070/rss"
+
 
 urls = [{'cat':'DailyFx', 'subcat':'市场回音', 'url':'http://rss.DailyFx.com.hk/cmarkets_chg_sc.xml'},
         {'cat':'DailyFx', 'subcat':'纽约盘后', 'url':'http://rss.DailyFx.com.hk/commentary_morning_chg_sc.xml'},
@@ -43,14 +49,19 @@ urls = [{'cat':'DailyFx', 'subcat':'市场回音', 'url':'http://rss.DailyFx.com
         {'cat':'DailyFx', 'subcat':'股市原油', 'url':'http://rss.DailyFx.com.hk/stocks_oil_chg_sc.xml'},
         {'cat':'DailyFx', 'subcat':'机构报告', 'url':'http://rss.DailyFx.com.hk/institution_chg_sc.xml'}]
 
-client = MongoClient(app.config['MONGO_URI'])
+client = MongoClient(MONGO_URL)
+lastLogTime = time.time()
+currentThreadName = 1
 def log(msg):
+    global lastLogTime
+    lastLogTime = time.time()
     logging.warning(msg)
 
 def readRss(urls):
     posts = client.get_default_database().readings
     for url in urls:
         items = feedparser.parse(url['url'])
+        log(url['subcat'])
         try:
             for entry in items.entries:
                 if (posts.find_one({"link":entry.link})):
@@ -75,21 +86,22 @@ def readRss(urls):
     posts.create_index([("cat", -1)])
     posts.create_index([("link", 1)])
 
-def refreshRss():
+def refreshRss(name):
+    global currentThreadName
     while True:
         try:
-            log("begin refresh rss")
+            log(str(name) + "begin refresh rss")
             rssZeroHedge()
-            log("finish zeroHedge")
+            log(str(name) + "finish zeroHedge")
             readRss(urls)
-            log("finish refresh rss")
+            log(str(name) + "finish refresh rss")
+            if(name != currentThreadName):
+                logging.warning(str(name) + "!!!!finish the thread due to new thread was created")
+                break
             time.sleep(10)
         except Exception as e:
-            logging.exception('!!!==============Exception during LogThread.run')
+            log('!!!==============Exception during LogThread.run')
             logging.exception(e)
-
-t = threading.Thread(target=refreshRss)
-t.start()
 
 def readHtml(link):
     r = requests.get(link)
@@ -132,5 +144,48 @@ def rssZeroHedge():
                       'content':content}
         post_id = posts.insert(post)
         log(post_id)
+
+def main(conn):
+    t = threading.Thread(target=refreshRss, args=(1,))
+    t.start()
+
+    while True:
+        global lastLogTime
+        global currentThreadName
+        current = time.time()
+        timespan = current - lastLogTime
+        if ((timespan > 300) or (not t.is_alive())):
+            logging.warning(str(currentThreadName) + "hanged about 5mins!!! start new process!" + str(threading.activeCount()))
+            lastLogTime = time.time()
+            currentThreadName = currentThreadName + 1
+            conn.send(0)
+#            t = threading.Thread(target=refreshRss, args=(currentThreadName,))
+#            t.start()
+        print("check the crawler " + str(timespan))
+        conn.send(timespan)
+        time.sleep(15);
+
+from multiprocessing import Process, Pipe
+import multiprocessing
+
+def rss_spider():
+
+    parent_conn, child_conn = Pipe()
+    p = Process(target=main, args=(child_conn,))
+    p.start()
+
+    while True:
+        a = parent_conn.recv()
+        if(0 == a):
+            p.terminate()
+            parent_conn.close()
+            parent_conn, child_conn = Pipe()
+            p = Process(target=main, args=(child_conn,))
+            p.start()
+            logging.warning(str(a) + "process:" + str(multiprocessing.active_children()))
+        time.sleep(1)
+
+spider = Process(target=rss_spider)
+spider.start()
 
 app.run(debug=True, host='0.0.0.0')

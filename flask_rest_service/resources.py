@@ -21,9 +21,6 @@ import requests
 import logging
 
 FILE = os.getcwd()
-logging.basicConfig(filename=os.path.join(FILE,'flask_rest_service/static/log.log'),
-                    level=logging.DEBUG,format='%(asctime)s:%(message)s',datefmt='%m/%d/%Y %I:%M:%S %p')
-
 
 class ReadingList(restful.Resource):
     def __init__(self, *args, **kwargs):
