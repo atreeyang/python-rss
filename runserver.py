@@ -55,7 +55,7 @@ currentThreadName = 1
 def log(msg):
     global lastLogTime
     lastLogTime = time.time()
-    logging.warning(msg)
+    #logging.warning(msg)
 
 def readRss(urls):
     posts = client.get_default_database().readings
@@ -173,12 +173,13 @@ def rss_spider():
     parent_conn, child_conn = Pipe()
     p = Process(target=main, args=(child_conn,))
     p.start()
-
+    global lastLogTime
     while True:
         a = parent_conn.recv()
         if(0 == a):
             p.terminate()
             parent_conn.close()
+            lastLogTime = time.time()
             parent_conn, child_conn = Pipe()
             p = Process(target=main, args=(child_conn,))
             p.start()
