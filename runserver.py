@@ -55,7 +55,7 @@ currentThreadName = 1
 def log(msg):
     global lastLogTime
     lastLogTime = time.time()
-    #logging.warning(msg)
+    logging.warning(msg)
 
 def readRss(urls):
     posts = client.get_default_database().readings
@@ -96,7 +96,7 @@ def refreshRss(name):
             readRss(urls)
             log(str(name) + "finish refresh rss")
             if(name != currentThreadName):
-                logging.warning(str(name) + "!!!!finish the thread due to new thread was created")
+                logging.error(str(name) + "!!!!finish the thread due to new thread was created")
                 break
             time.sleep(10)
         except Exception as e:
@@ -155,13 +155,13 @@ def main(conn):
         current = time.time()
         timespan = current - lastLogTime
         if ((timespan > 300) or (not t.is_alive())):
-            logging.warning(str(currentThreadName) + "hanged about 5mins!!! start new process!" + str(threading.activeCount()))
+            logging.error(str(currentThreadName) + "hanged about 5mins!!! start new process!" + str(threading.activeCount()))
             lastLogTime = time.time()
             currentThreadName = currentThreadName + 1
             conn.send(0)
 #            t = threading.Thread(target=refreshRss, args=(currentThreadName,))
 #            t.start()
-        print("check the crawler " + str(timespan))
+        logging.error("check the crawler " + str(timespan))
         conn.send(timespan)
         time.sleep(15);
 
@@ -183,7 +183,7 @@ def rss_spider():
             parent_conn, child_conn = Pipe()
             p = Process(target=main, args=(child_conn,))
             p.start()
-            logging.warning(str(a) + "process:" + str(multiprocessing.active_children()))
+            logging.error(str(a) + "process:" + str(multiprocessing.active_children()))
         time.sleep(1)
 
 spider = Process(target=rss_spider)
