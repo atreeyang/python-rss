@@ -113,7 +113,7 @@ def make_external(url):
 
 @app.route('/recent.atom')
 def recent_feed():
-    feed = AtomFeed('Recent Articles',
+    feed = AtomFeed('dailyfx summary',
                     feed_url=request.url, url=request.url_root)
     offset = 0
     limit = 200
