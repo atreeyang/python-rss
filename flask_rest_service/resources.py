@@ -101,3 +101,32 @@ class MyFeedback(restful.Resource):
 api.add_resource(MyFeedback, '/myfeedback/')
 api.add_resource(ReadingList, '/readings/')
 api.add_resource(Reading, '/readings/<ObjectId:reading_id>')
+
+
+from urlparse import urljoin
+from werkzeug.contrib.atom import AtomFeed
+
+
+def make_external(url):
+    return urljoin(request.url_root, url)
+
+
+@app.route('/recent.atom')
+def recent_feed():
+    feed = AtomFeed('Recent Articles',
+                    feed_url=request.url, url=request.url_root)
+    offset = 0
+    limit = 200
+    cat = 'ZeroHedge'
+    articles = [ x for x in mongo.db.readings.find({'cat':cat},{'title':1,'content':1,'published':1,'subcat':1, 'date':1, 'published':1}).sort('date',-1).skip(offset).limit(limit)]
+
+    for article in articles:
+        print(type(article['date']))
+        print('=================')
+        feed.add(article['title'], unicode(article['content']),
+                 content_type='html',
+                 author=article['subcat'],
+                 url=make_external('http://atreeyang-rss2.daoapp.io/readings/' + str(article['_id'])),
+                 updated=article['date'],
+                 published=datetime.strptime(article['published'], "%Y-%m-%d %H:%M"))
+    return feed.get_response()
