@@ -117,12 +117,10 @@ def recent_feed():
                     feed_url=request.url, url=request.url_root)
     offset = 0
     limit = 200
-    cat = 'ZeroHedge'
+    cat = 'DailyFx'
     articles = [ x for x in mongo.db.readings.find({'cat':cat},{'title':1,'content':1,'published':1,'subcat':1, 'date':1, 'published':1}).sort('date',-1).skip(offset).limit(limit)]
 
     for article in articles:
-        print(type(article['date']))
-        print('=================')
         feed.add(article['title'], unicode(article['content']),
                  content_type='html',
                  author=article['subcat'],
