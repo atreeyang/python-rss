@@ -121,6 +121,8 @@ def recent_feed():
     articles = [ x for x in mongo.db.readings.find({'cat':cat},{'title':1,'content':1,'published':1,'subcat':1, 'date':1, 'published':1}).sort('date',-1).skip(offset).limit(limit)]
 
     for article in articles:
+        if(article['title'] is None):
+            continue;
         feed.add(article['title'], unicode(article['content']),
                  content_type='html',
                  author=article['subcat'],
